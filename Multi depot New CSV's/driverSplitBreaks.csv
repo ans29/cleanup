@@ -1,0 +1,132 @@
+Driver,Days,Depot Id,Break 1,Break 2,Zones Only,Frozen Fixed Trips Only,One Way Driver,Double Decker Trained,Frozen Product Trained,Fridge Trailer Trained,Driver Type
+Tesco,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Agency 08T12,1,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 12T14,1,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 14T16,1,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 16T18,1,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 18T20,1,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 20T2359,2,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 00T05,2,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 0530T0730,2,30103,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Haulier,1,30103,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Haulier,2,30103,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Tesco Tailend,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco TailendShort,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,1,30103,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco 0600T0800,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1100T1300,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1200T1400,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1230T1430,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1430T1630,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1500T1700,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1600T1800,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1630T1830,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1700T1900,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1800T2000,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1900T2100,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1930T2130,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2000T2200,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2100T2300,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2130T2330,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2145T2345,1,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0000T0200,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0100T0300,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0200T0400,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0300T0500,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0330T0530,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0400T0600,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0430T0630,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0500T0530,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0600T0800,2,30103,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Agency 12T20,1,30102,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 20T2359,1,30102,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 00T05,2,30102,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 0530T0730,2,30102,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Tesco Tailend,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,1,30102,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco 1000T1100,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1100T1200,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1200T1400,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1300T1400,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1400T1500,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1500T1600,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1600T1700,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1700T1800,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1800T1900,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1900T2000,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2000T2100,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2100T2200,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2200T2300,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2300T2400,1,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0000T0100,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0100T0200,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0200T0300,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0300T0400,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0400T0500,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0500T0600,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0600T0700,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0700T0800,2,30102,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Haulier,1,30053,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Haulier,2,30053,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Tesco,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Agency 08T20,1,30053,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 20T2359,1,30053,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 00T05,2,30053,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 0530T0730,2,30053,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Tesco 1000T1100,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1100T1200,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1200T1400,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1300T1400,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1400T1500,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1500T1600,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1600T1700,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1700T1800,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1800T1900,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 1900T2000,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2000T2100,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2100T2200,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2200T2300,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 2300T2400,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0000T0100,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0100T0200,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0200T0300,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0300T0400,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0400T0500,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0500T0600,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0600T0700,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0700T0800,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0300T0500,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0330T0530,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0400T0600,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0430T0630,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0500T0530,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco 0600T0800,2,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco Tailend,1,30053,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,2,30053,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco,1,38111,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,38111,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,1,68807,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,68807,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Haulier,1,68807,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Haulier,2,68807,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+corby,2,68807,00:45,00:00,No,No,No,Yes,Yes,Yes,Haulier
+Tesco Fixedfroz,1,68807,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,2,68807,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco,1,30052,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,30052,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,1,30052,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,2,30052,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,1,38111,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Tesco Fixedfroz,2,38111,00:45,00:00,No,Yes,No,Yes,Yes,Yes,Tesco
+Haulier,1,30052,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Haulier,2,30052,00:45,00:00,Yes,No,Yes,No,Yes,Yes,Haulier
+Tesco,1,37198,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Tesco,2,37198,00:45,00:00,No,No,No,Yes,Yes,Yes,Tesco
+Agency 08T20,1,37198,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 20T2359,1,37198,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 00T05,2,37198,00:45,00:00,No,No,No,No,Yes,Yes,Agency
+Agency 0530T0730,2,37198,00:45,00:00,No,No,No,No,Yes,Yes,Agency

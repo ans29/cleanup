@@ -1,0 +1,369 @@
+Fixed Trip Id,Title,Origin Location,OriginLocation Name,Start Location,End Location,Drop Location,Target,Sequence,Arrival Time,Visit Type,Vehicle Type,Day of the Week,Day of the Leg,Schedule with Wave,Driver,Product Type,Collection Volume,Flexible Start,Flexible End
+1,1SouthamptonThursday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Thursday,Thursday,1,,RSU / Electrical Returns,45,No,No
+2,2SouthamptonFriday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Friday,Friday,1,,RSU / Electrical Returns,45,No,No
+3,3SouthamptonSaturday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Saturday,Saturday,1,,RSU / Electrical Returns,45,No,No
+4,4SouthamptonMonday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Monday,Monday,1,,RSU / Electrical Returns,45,No,No
+5,5SouthamptonTuesday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Tuesday,Tuesday,1,,RSU / Electrical Returns,45,No,No
+6,6SouthamptonWednesday1,30103,Southampton,30103,30103,7892100,,1,09:29-09:30,Delivery,13m,Wednesday,Wednesday,1,,RSU / Electrical Returns,45,No,No
+7,7SouthamptonMonday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+7,7SouthamptonMonday2,30103,Southampton,30103,30103,1929602,,2,11:59-12:00,Delivery,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+7,7SouthamptonMonday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Monday,Monday,2,,Supplier Collections,25,No,No
+7,7SouthamptonMonday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Monday,Monday,2,,Supplier Collections,20,No,No
+8,8SouthamptonTuesday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+8,8SouthamptonTuesday2,30103,Southampton,30103,30103,1929602,,2,11:59-12:00,Delivery,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+8,8SouthamptonTuesday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,25,No,No
+8,8SouthamptonTuesday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,20,No,No
+9,9SouthamptonWednesday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+9,9SouthamptonWednesday2,30103,Southampton,30103,30103,1929602,,2,11:59-12:00,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+9,9SouthamptonWednesday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,25,No,No
+9,9SouthamptonWednesday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,20,No,No
+10,10SouthamptonThursday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+10,10SouthamptonThursday2,30103,Southampton,30103,30103,1929602,,2,11:59-13:00,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+10,10SouthamptonThursday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,25,No,No
+10,10SouthamptonThursday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,20,No,No
+11,11SouthamptonFriday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+11,11SouthamptonFriday2,30103,Southampton,30103,30103,1929602,,2,11:59-12:00,Delivery,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+11,11SouthamptonFriday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Friday,Friday,2,,Supplier Collections,25,No,No
+11,11SouthamptonFriday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Friday,Friday,2,,Supplier Collections,20,No,No
+12,12SouthamptonSaturday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+12,12SouthamptonSaturday2,30103,Southampton,30103,30103,1929602,,2,12:00-14:59,Delivery,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+12,12SouthamptonSaturday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Saturday,Saturday,2,,Supplier Collections,25,No,No
+12,12SouthamptonSaturday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Saturday,Saturday,2,,Supplier Collections,20,No,No
+13,13SouthamptonSunday2,30103,Southampton,30103,30103,38510,,1,09:30-10:29,Collection,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+13,13SouthamptonSunday2,30103,Southampton,30103,30103,1929602,,2,11:59-12:00,Delivery,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+13,13SouthamptonSunday2,30103,Southampton,30103,30103,1929602,30103,3,12:00-14:59,Collection,13m,Sunday,Sunday,2,,Supplier Collections,25,No,No
+13,13SouthamptonSunday2,30103,Southampton,30103,30103,1929600,,4,13:00-16:59,Collection,13m,Sunday,Sunday,2,,Supplier Collections,20,No,No
+14,14SouthamptonMonday2,30103,Southampton,30103,30103,1929601,30103,1,14:29-14:30,Collection,13m,Monday,Monday,2,,Supplier Collections,25,Yes,No
+14,14SouthamptonMonday2,30103,Southampton,30103,30103,1929603,,2,15:00-15:59,Collection,13m,Monday,Monday,2,,Supplier Collections,20,Yes,No
+15,15SouthamptonThursday2,30103,Southampton,30103,30103,1929601,30103,1,13:29-15:30,Collection,13m,Thursday,Thursday,2,,Supplier Collections,25,Yes,No
+15,15SouthamptonThursday2,30103,Southampton,30103,30103,1929603,,2,14:00-15:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,20,Yes,No
+16,16SouthamptonFriday2,30103,Southampton,30103,30103,1929601,30103,1,14:29-14:30,Collection,13m,Friday,Friday,2,,Supplier Collections,25,Yes,No
+16,16SouthamptonFriday2,30103,Southampton,30103,30103,1929603,,2,15:00-15:59,Collection,13m,Friday,Friday,2,,Supplier Collections,20,Yes,No
+17,17SouthamptonSaturday2,30103,Southampton,30103,30103,1929601,30103,1,12:29-16:30,Collection,13m,Saturday,Saturday,2,,Supplier Collections,25,Yes,No
+17,17SouthamptonSaturday2,30103,Southampton,30103,30103,1929603,,2,13:00-17:59,Collection,13m,Saturday,Saturday,2,,Supplier Collections,20,Yes,No
+18,18SouthamptonSunday2,30103,Southampton,30103,30103,1929601,30103,1,12:29-16:30,Collection,13m,Sunday,Sunday,2,,Supplier Collections,25,Yes,No
+18,18SouthamptonSunday2,30103,Southampton,30103,30103,1929603,,2,13:00-17:59,Collection,13m,Sunday,Sunday,2,,Supplier Collections,20,Yes,No
+19,19SouthamptonTuesday2,30103,Southampton,30103,30103,1929601,30103,1,14:29-14:30,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,25,Yes,No
+19,19SouthamptonTuesday2,30103,Southampton,30103,30103,1929603,,2,15:00-15:59,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,20,Yes,No
+20,20SouthamptonWednesday2,30103,Southampton,30103,30103,1929601,30103,1,14:29-14:30,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,25,Yes,No
+20,20SouthamptonWednesday2,30103,Southampton,30103,30103,1929603,,2,15:00-15:59,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,20,Yes,No
+21,21DidcotMonday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Monday,Monday,2,,RSU / Electrical Returns,45,No,No
+23,23DidcotMonday1,30053,Didcot,30053,30053,2064,,1,02:00-02:59,Delivery,13m,Monday,Monday,1,,Fresh,,No,No
+23,23DidcotMonday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Monday,Monday,1,,Supplier Collections,45,No,No
+23,23DidcotMonday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Monday,Monday,1,,Supplier Collections,45,No,No
+23,23DidcotMonday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Monday,Monday,1,,Supplier Collections,45,No,No
+24,24DidcotMonday2,30053,Didcot,30053,30053,3230,,1,21:30-22:29,Delivery,13m,Monday,Monday,2,,Frozen OTB,,No,No
+24,24DidcotMonday2,30053,Didcot,30053,30053,3230,,2,21:30-22:29,Delivery,13m,Monday,Monday,2,,Fresh,,No,No
+24,24DidcotMonday2,30053,Didcot,30053,30053,34515,,3,00:00-00:59,Collection,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+24,24DidcotMonday2,30053,Didcot,30053,30053,6126812,,4,01:00-01:59,Delivery,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+24,24DidcotMonday2,30053,Didcot,30053,30053,6126812,,5,02:00-02:59,Collection,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+25,25DidcotMonday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Monday,Monday,2,,Fresh,,No,No
+25,25DidcotMonday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+25,25DidcotMonday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+25,25DidcotMonday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Monday,Tuesday,2,,Supplier Collections,45,No,No
+26,26DidcotTuesday1,30053,Didcot,30053,30053,2708,,1,09:59-10:00,Delivery,rigid8m16t,Tuesday,Tuesday,1,,Fresh,,No,No
+26,26DidcotTuesday1,30053,Didcot,30053,30053,34517,,2,11:30-12:29,Collection,rigid8m16t,Tuesday,Tuesday,1,,Grocery,15,No,No
+26,26DidcotTuesday1,30053,Didcot,30053,30053,2708,,3,14:00-14:59,Delivery,rigid8m16t,Tuesday,Tuesday,1,,Grocery,15,No,No
+27,27DidcotTuesday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Tuesday,Tuesday,2,,RSU / Electrical Returns,45,No,No
+29,29DidcotTuesday1,30053,Didcot,30053,30053,2064,,1,01:00-01:59,Delivery,13m,Tuesday,Tuesday,1,,Fresh,,No,No
+29,29DidcotTuesday1,30053,Didcot,30053,30053,30102,,2,02:00-02:59,Collection,13m,Tuesday,Tuesday,1,,Supplier Collections,45,No,No
+29,29DidcotTuesday1,30053,Didcot,30053,30053,8880030,,3,03:00-04:59,Delivery,13m,Tuesday,Tuesday,1,,Supplier Collections,45,No,No
+29,29DidcotTuesday1,30053,Didcot,30053,30053,8880030,,4,04:00-05:59,Collection,13m,Tuesday,Tuesday,1,,Supplier Collections,45,No,No
+30,30DidcotTuesday2,30053,Didcot,30053,30053,2279,,1,21:29-22:30,Delivery,13m,Tuesday,Tuesday,2,,Fresh,,No,No
+30,30DidcotTuesday2,30053,Didcot,30053,30053,34515,,2,00:00-00:59,Collection,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+30,30DidcotTuesday2,30053,Didcot,30053,30053,6126812,,3,01:00-01:59,Delivery,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+30,30DidcotTuesday2,30053,Didcot,30053,30053,6126812,,4,02:00-02:59,Collection,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+31,31DidcotTuesday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Tuesday,Tuesday,2,,Fresh,,No,No
+31,31DidcotTuesday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+31,31DidcotTuesday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+31,31DidcotTuesday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Tuesday,Wednesday,2,,Supplier Collections,45,No,No
+32,32DidcotWednesday1,30053,Didcot,30053,30053,2708,,1,09:59-10:00,Delivery,rigid8m16t,Wednesday,Wednesday,1,,Frozen OTB,,No,No
+32,32DidcotWednesday1,30053,Didcot,30053,30053,2708,,2,09:59-10:00,Delivery,rigid8m16t,Wednesday,Wednesday,1,,Fresh,,No,No
+32,32DidcotWednesday1,30053,Didcot,30053,30053,34517,,3,11:30-12:29,Collection,rigid8m16t,Wednesday,Wednesday,1,,Grocery,15,No,No
+32,32DidcotWednesday1,30053,Didcot,30053,30053,2708,,4,14:00-14:59,Delivery,rigid8m16t,Wednesday,Wednesday,1,,Grocery,15,No,No
+33,33DidcotWednesday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Wednesday,Wednesday,2,,RSU / Electrical Returns,45,No,No
+35,35DidcotWednesday1,30053,Didcot,30053,30053,2064,,1,01:00-03:59,Delivery,13m,Wednesday,Wednesday,1,,Fresh,,No,No
+35,35DidcotWednesday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Wednesday,Wednesday,1,,Supplier Collections,45,No,No
+35,35DidcotWednesday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Wednesday,Wednesday,1,,Supplier Collections,45,No,No
+35,35DidcotWednesday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Wednesday,Wednesday,1,,Supplier Collections,45,No,No
+36,36DidcotWednesday2,30053,Didcot,30053,30053,2279,,1,21:30-22:29,Delivery,13m,Wednesday,Wednesday,2,,Frozen OTB,,No,No
+36,36DidcotWednesday2,30053,Didcot,30053,30053,2279,,2,21:30-22:29,Delivery,13m,Wednesday,Wednesday,2,,Fresh,,No,No
+36,36DidcotWednesday2,30053,Didcot,30053,30053,34515,,3,00:00-01:00,Collection,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+36,36DidcotWednesday2,30053,Didcot,30053,30053,6126812,,4,01:00-01:59,Delivery,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+36,36DidcotWednesday2,30053,Didcot,30053,30053,6126812,,5,02:00-02:59,Collection,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+37,37DidcotWednesday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Wednesday,Wednesday,2,,Fresh,,No,No
+37,37DidcotWednesday2,30053,Didcot,30053,30053,30102,,2,00:00-00:59,Collection,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+37,37DidcotWednesday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+37,37DidcotWednesday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Wednesday,Thursday,2,,Supplier Collections,45,No,No
+38,38DidcotThursday1,30053,Didcot,30053,30053,2708,,1,09:59-10:00,Delivery,rigid8m16t,Thursday,Thursday,1,,Fresh,,No,No
+38,38DidcotThursday1,30053,Didcot,30053,30053,34517,,2,11:30-12:29,Collection,rigid8m16t,Thursday,Thursday,1,,Grocery,15,No,No
+38,38DidcotThursday1,30053,Didcot,30053,30053,2708,,3,14:00-14:59,Delivery,rigid8m16t,Thursday,Thursday,1,,Grocery,15,No,No
+39,39DidcotThursday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Thursday,Thursday,2,,RSU / Electrical Returns,45,No,No
+41,41DidcotThursday1,30053,Didcot,30053,30053,2064,,1,02:00-02:59,Delivery,13m,Thursday,Thursday,1,,Fresh,,No,No
+41,41DidcotThursday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Thursday,Thursday,1,,Supplier Collections,45,No,No
+41,41DidcotThursday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Thursday,Thursday,1,,Supplier Collections,45,No,No
+41,41DidcotThursday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Thursday,Thursday,1,,Supplier Collections,45,No,No
+42,42DidcotThursday2,30053,Didcot,30053,30053,2279,,1,16:30-17:29,Delivery,13m,Thursday,Thursday,2,,Frozen OTB,,No,No
+42,42DidcotThursday2,30053,Didcot,30053,30053,2279,,2,16:30-17:29,Delivery,13m,Thursday,Thursday,2,,Fresh,,No,No
+42,42DidcotThursday2,30053,Didcot,30053,30053,34515,,3,19:00-19:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+42,42DidcotThursday2,30053,Didcot,30053,30053,6126812,,4,20:00-20:59,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+42,42DidcotThursday2,30053,Didcot,30053,30053,6126812,,5,20:59-21:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+43,43DidcotThursday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Thursday,Thursday,2,,Fresh,,No,No
+43,43DidcotThursday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Thursday,Friday,2,,Supplier Collections,45,No,No
+43,43DidcotThursday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Thursday,Friday,2,,Supplier Collections,45,No,No
+43,43DidcotThursday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Thursday,Friday,2,,Supplier Collections,45,No,No
+44,44DidcotSaturday1,30053,Didcot,30053,30053,2708,,1,09:59-10:00,Delivery,rigid8m16t,Saturday,Saturday,1,,Frozen OTB,,No,No
+44,44DidcotSaturday1,30053,Didcot,30053,30053,2708,,2,09:59-10:00,Delivery,rigid8m16t,Saturday,Saturday,1,,Fresh,,No,No
+44,44DidcotSaturday1,30053,Didcot,30053,30053,34517,,3,11:30-12:29,Collection,rigid8m16t,Saturday,Saturday,1,,Grocery,15,No,No
+44,44DidcotSaturday1,30053,Didcot,30053,30053,2708,,4,14:00-14:59,Delivery,rigid8m16t,Saturday,Saturday,1,,Grocery,15,No,No
+46,46DidcotFriday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Friday,Friday,2,,RSU / Electrical Returns,45,No,No
+47,47DidcotFriday1,30053,Didcot,30053,30053,2064,,1,02:00-02:59,Delivery,13m,Friday,Friday,1,,Fresh,,No,No
+47,47DidcotFriday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Friday,Friday,1,,Supplier Collections,45,No,No
+47,47DidcotFriday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Friday,Friday,1,,Supplier Collections,45,No,No
+47,47DidcotFriday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Friday,Friday,1,,Supplier Collections,45,No,No
+48,48DidcotFriday2,30053,Didcot,30053,30053,3230,,1,21:30-22:29,Delivery,13m,Friday,Friday,2,,Fresh,,No,No
+48,48DidcotFriday2,30053,Didcot,30053,30053,34515,,2,00:00-00:59,Collection,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+48,48DidcotFriday2,30053,Didcot,30053,30053,6126812,,3,01:00-01:59,Delivery,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+48,48DidcotFriday2,30053,Didcot,30053,30053,6126812,,4,02:00-02:59,Collection,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+49,49DidcotFriday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Friday,Friday,2,,Fresh,,No,No
+49,49DidcotFriday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+49,49DidcotFriday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+49,49DidcotFriday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Friday,Saturday,2,,Supplier Collections,45,No,No
+50,50DidcotSaturday2,30053,Didcot,30053,30053,7892100,,1,14:00-14:01,Delivery,13m,Saturday,Saturday,2,,RSU / Electrical Returns,45,No,No
+52,52DidcotSaturday1,30053,Didcot,30053,30053,2064,,1,02:00-02:59,Delivery,13m,Saturday,Saturday,1,,Fresh,,No,No
+52,52DidcotSaturday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Saturday,Saturday,1,,Supplier Collections,45,No,No
+52,52DidcotSaturday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Saturday,Saturday,1,,Supplier Collections,45,No,No
+52,52DidcotSaturday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Saturday,Saturday,1,,Supplier Collections,45,No,No
+53,53DidcotSaturday2,30053,Didcot,30053,30053,3230,,1,21:30-22:29,Delivery,13m,Saturday,Saturday,2,,Fresh,,No,No
+53,53DidcotSaturday2,30053,Didcot,30053,30053,34515,,2,00:00-00:59,Collection,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+53,53DidcotSaturday2,30053,Didcot,30053,30053,6126812,,3,01:00-01:59,Delivery,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+53,53DidcotSaturday2,30053,Didcot,30053,30053,6126812,,4,02:00-02:59,Collection,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+54,54DidcotSaturday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Saturday,Saturday,2,,Fresh,,No,No
+54,54DidcotSaturday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+54,54DidcotSaturday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+54,54DidcotSaturday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Saturday,Sunday,2,,Supplier Collections,45,No,No
+56,56DidcotSunday1,30053,Didcot,30053,30053,2064,,1,02:00-02:59,Delivery,13m,Sunday,Sunday,1,,Fresh,,No,No
+56,56DidcotSunday1,30053,Didcot,30053,30053,30102,,2,04:30-05:29,Collection,13m,Sunday,Sunday,1,,Supplier Collections,45,No,No
+56,56DidcotSunday1,30053,Didcot,30053,30053,8880030,,3,05:30-06:29,Delivery,13m,Sunday,Sunday,1,,Supplier Collections,45,No,No
+56,56DidcotSunday1,30053,Didcot,30053,30053,8880030,,4,06:30-07:29,Collection,13m,Sunday,Sunday,1,,Supplier Collections,45,No,No
+57,57DidcotSunday2,30053,Didcot,30053,30053,3230,,1,21:30-22:29,Delivery,13m,Sunday,Sunday,2,,Fresh,,No,No
+57,57DidcotSunday2,30053,Didcot,30053,30053,34515,,2,00:00-00:59,Collection,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+57,57DidcotSunday2,30053,Didcot,30053,30053,6126812,,3,01:00-01:59,Delivery,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+57,57DidcotSunday2,30053,Didcot,30053,30053,6126812,,4,02:00-02:59,Collection,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+58,58DidcotSunday2,30053,Didcot,30053,30053,4480,,1,22:00-22:59,Delivery,13m,Sunday,Sunday,2,,Fresh,,No,No
+58,58DidcotSunday2,30053,Didcot,30053,30053,30102,,2,00:30-01:29,Collection,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+58,58DidcotSunday2,30053,Didcot,30053,30053,8880030,,3,01:30-02:29,Delivery,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+58,58DidcotSunday2,30053,Didcot,30053,30053,8880030,,4,02:30-03:29,Collection,13m,Sunday,Monday,2,,Supplier Collections,45,No,No
+59,59HinckleyMonday2,30102,Hinckley,30102,30102,38508,,1,12:00-13:00,Collection,13m,Monday,Monday,2,,RSU / Electrical Returns,45,No,No
+59,59HinckleyMonday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Monday,Monday,2,,RSU / Electrical Returns,45,No,No
+60,60HinckleyMonday2,30102,Hinckley,30102,30102,1910827,,1,10:59-11:00,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+60,60HinckleyMonday2,30102,Hinckley,30102,30102,37197,,2,13:00-14:00,Delivery,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+60,60HinckleyMonday2,30102,Hinckley,30102,30102,8880030,,3,14:00-15:00,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+61,61HinckleyMonday2,30102,Hinckley,30102,30102,1910827,,1,11:00-11:29,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+61,61HinckleyMonday2,30102,Hinckley,30102,30102,37197,,2,13:30-14:30,Delivery,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+61,61HinckleyMonday2,30102,Hinckley,30102,30102,8880030,,3,14:30-15:30,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+62,62HinckleyMonday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+62,62HinckleyMonday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+62,62HinckleyMonday2,30102,Hinckley,30102,30102,1931004,,3,22:00-23:00,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+63,63HinckleyMonday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+63,63HinckleyMonday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Monday,Monday,2,,Supplier Collections,45,No,No
+64,64HinckleyTuesday2,30102,Hinckley,30102,30102,38508,,1,11:30-12:30,Collection,13m,Tuesday,Tuesday,2,,RSU / Electrical Returns,45,No,No
+64,64HinckleyTuesday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Tuesday,Tuesday,2,,RSU / Electrical Returns,45,No,No
+65,65HinckleyTuesday2,30102,Hinckley,30102,30102,1910827,,1,10:59-11:00,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+65,65HinckleyTuesday2,30102,Hinckley,30102,30102,37197,,2,13:00-14:00,Delivery,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+65,65HinckleyTuesday2,30102,Hinckley,30102,30102,8880030,,3,14:00-15:00,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+66,66HinckleyTuesday2,30102,Hinckley,30102,30102,1910827,,1,11:00-11:29,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+66,66HinckleyTuesday2,30102,Hinckley,30102,30102,37197,,2,13:30-14:30,Delivery,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+66,66HinckleyTuesday2,30102,Hinckley,30102,30102,8880030,,3,14:30-15:30,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+67,67HinckleyTuesday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+67,67HinckleyTuesday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+68,68HinckleyTuesday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+68,68HinckleyTuesday2,30102,Hinckley,30102,30102,37197,,2,21:30-21:59,Delivery,13m,Tuesday,Tuesday,2,,Supplier Collections,45,No,No
+69,69HinckleyWednesday2,30102,Hinckley,30102,30102,38508,,1,11:30-12:30,Collection,13m,Wednesday,Wednesday,2,,RSU / Electrical Returns,45,No,No
+69,69HinckleyWednesday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Wednesday,Wednesday,2,,RSU / Electrical Returns,45,No,No
+70,70HinckleyWednesday2,30102,Hinckley,30102,30102,1910827,,1,10:59-11:00,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+70,70HinckleyWednesday2,30102,Hinckley,30102,30102,37197,,2,13:00-14:00,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+70,70HinckleyWednesday2,30102,Hinckley,30102,30102,8880030,,3,14:00-15:00,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+71,71HinckleyWednesday2,30102,Hinckley,30102,30102,1910827,,1,11:00-11:29,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+71,71HinckleyWednesday2,30102,Hinckley,30102,30102,37197,,2,13:30-14:30,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+71,71HinckleyWednesday2,30102,Hinckley,30102,30102,8880030,,3,14:30-15:30,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+72,72HinckleyWednesday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+72,72HinckleyWednesday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+72,72HinckleyWednesday2,30102,Hinckley,30102,30102,1931004,,3,22:00-23:00,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+73,73HinckleyWednesday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+73,73HinckleyWednesday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Wednesday,Wednesday,2,,Supplier Collections,45,No,No
+74,74HinckleyThursday2,30102,Hinckley,30102,30102,38508,,1,11:30-12:30,Collection,13m,Thursday,Thursday,2,,RSU / Electrical Returns,45,No,No
+74,74HinckleyThursday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Thursday,Thursday,2,,RSU / Electrical Returns,45,No,No
+75,75HinckleyThursday2,30102,Hinckley,30102,30102,1910827,,1,10:59-11:00,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+75,75HinckleyThursday2,30102,Hinckley,30102,30102,37197,,2,13:00-14:00,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+75,75HinckleyThursday2,30102,Hinckley,30102,30102,8880030,,3,14:00-15:00,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+76,76HinckleyThursday2,30102,Hinckley,30102,30102,1910827,,1,11:00-11:29,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+76,76HinckleyThursday2,30102,Hinckley,30102,30102,37197,,2,13:30-14:30,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+76,76HinckleyThursday2,30102,Hinckley,30102,30102,8880030,,3,14:30-15:30,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+77,77HinckleyThursday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+77,77HinckleyThursday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+78,78HinckleyThursday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+78,78HinckleyThursday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Thursday,Thursday,2,,Supplier Collections,45,No,No
+79,79HinckleyFriday2,30102,Hinckley,30102,30102,38508,,1,11:30-12:30,Collection,13m,Friday,Friday,2,,RSU / Electrical Returns,45,No,No
+79,79HinckleyFriday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Friday,Friday,2,,RSU / Electrical Returns,45,No,No
+80,80HinckleyFriday2,30102,Hinckley,30102,30102,1910827,,1,10:59-11:00,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+80,80HinckleyFriday2,30102,Hinckley,30102,30102,37197,,2,13:00-14:00,Delivery,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+80,80HinckleyFriday2,30102,Hinckley,30102,30102,8880030,,3,14:00-15:00,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+81,81HinckleyFriday2,30102,Hinckley,30102,30102,1910827,,1,11:00-11:29,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+81,81HinckleyFriday2,30102,Hinckley,30102,30102,37197,,2,13:30-14:30,Delivery,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+81,81HinckleyFriday2,30102,Hinckley,30102,30102,8880030,,3,14:30-15:30,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+82,82HinckleyFriday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+82,82HinckleyFriday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+82,82HinckleyFriday2,30102,Hinckley,30102,30102,1931004,,3,22:00-23:00,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+83,83HinckleyFriday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+83,83HinckleyFriday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Friday,Friday,2,,Supplier Collections,45,No,No
+84,84HinckleySaturday2,30102,Hinckley,30102,30102,38508,,1,12:00-13:00,Collection,13m,Saturday,Saturday,2,,RSU / Electrical Returns,45,No,No
+84,84HinckleySaturday2,30102,Hinckley,30102,30102,7892100,,2,13:59-14:00,Delivery,13m,Saturday,Saturday,2,,RSU / Electrical Returns,45,No,No
+85,85HinckleySaturday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+85,85HinckleySaturday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+86,86HinckleySaturday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+86,86HinckleySaturday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Saturday,Saturday,2,,Supplier Collections,45,No,No
+87,87HinckleySunday2,30102,Hinckley,30102,30102,1930001,,1,17:30-17:59,Collection,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+87,87HinckleySunday2,30102,Hinckley,30102,30102,37197,,2,19:30-20:30,Delivery,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+88,88HinckleySunday2,30102,Hinckley,30102,30102,1930001,,1,19:30-19:59,Collection,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+88,88HinckleySunday2,30102,Hinckley,30102,30102,37197,,2,21:30-22:30,Delivery,13m,Sunday,Sunday,2,,Supplier Collections,45,No,No
+90,90Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Monday,Monday,2,,OTB Ambient,65,No,No
+91,91Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Monday,Monday,2,,OTB Ambient,65,No,No
+92,92Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Monday,Monday,2,,OTB Ambient,65,No,No
+93,93Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Monday,Monday,2,,OTB Ambient,65,No,No
+94,94Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+95,95Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+96,96Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+97,97Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+98,98Newton AbbotMonday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+99,99Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,65,No,No
+100,100Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,65,No,No
+101,101Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,65,No,No
+102,102Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,65,No,No
+103,103Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+104,104Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+105,105Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+106,106Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+107,107Newton AbbotTuesday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+108,108Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,65,No,No
+109,109Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,65,No,No
+110,110Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,65,No,No
+111,111Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,65,No,No
+112,112Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+113,113Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+114,114Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+115,115Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+116,116Newton AbbotWednesday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+117,117Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,65,No,No
+118,118Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,65,No,No
+119,119Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,65,No,No
+120,120Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,65,No,No
+121,121Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+122,122Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+123,123Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+124,124Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+125,125Newton AbbotThursday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+126,126Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Friday,Friday,2,,OTB Ambient,65,No,No
+127,127Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Friday,Friday,2,,OTB Ambient,65,No,No
+128,128Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Friday,Friday,2,,OTB Ambient,65,No,No
+129,129Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Friday,Friday,2,,OTB Ambient,65,No,No
+130,130Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+131,131Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+132,132Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+133,133Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+134,134Newton AbbotFriday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+135,135Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,65,No,No
+136,136Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,65,No,No
+137,137Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,65,No,No
+138,138Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,65,No,No
+139,139Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+140,140Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+141,141Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+142,142Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+143,143Newton AbbotSaturday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+144,144Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,65,No,No
+145,145Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34002,,1,16:59-17:00,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,65,No,No
+146,146Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34002,,1,19:59-20:00,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,65,No,No
+147,147Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34002,,1,20:59-21:00,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,65,No,No
+148,148Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34515,,1,21:29-21:30,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+149,149Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34515,,1,20:29-20:30,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+150,150Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34515,,1,18:59-19:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+151,151Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34515,,1,16:59-17:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+152,152Newton AbbotSunday2,38111,Newton Abbot,38111,38111,34515,,1,15:59-16:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+153,153WashingtonMonday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Monday,Monday,2,,OTB Ambient,72,No,No
+154,154WashingtonMonday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Monday,Monday,2,,OTB Ambient,72,No,No
+155,155WashingtonMonday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Monday,Monday,2,,OTB Ambient,72,No,No
+156,156WashingtonMonday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Monday,Monday,2,,OTB Ambient,72,No,No
+157,157WashingtonMonday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+158,158WashingtonMonday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+159,159WashingtonMonday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+160,160WashingtonMonday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+161,161WashingtonMonday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+162,162WashingtonMonday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+163,163WashingtonMonday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Monday,Monday,2,,Fresh,72,No,No
+164,164WashingtonTuesday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,72,No,No
+165,165WashingtonTuesday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,72,No,No
+166,166WashingtonTuesday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,72,No,No
+167,167WashingtonTuesday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Tuesday,Tuesday,2,,OTB Ambient,72,No,No
+168,168WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+169,169WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+170,170WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+171,171WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+172,172WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+173,173WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+174,174WashingtonTuesday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Tuesday,Tuesday,2,,Fresh,72,No,No
+175,175WashingtonWednesday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,72,No,No
+176,176WashingtonWednesday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,72,No,No
+177,177WashingtonWednesday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,72,No,No
+178,178WashingtonWednesday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Wednesday,Wednesday,2,,OTB Ambient,72,No,No
+179,179WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+180,180WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+181,181WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+182,182WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+183,183WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+184,184WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+185,185WashingtonWednesday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Wednesday,Wednesday,2,,Fresh,72,No,No
+186,186WashingtonThursday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,72,No,No
+187,187WashingtonThursday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,72,No,No
+188,188WashingtonThursday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,72,No,No
+189,189WashingtonThursday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Thursday,Thursday,2,,OTB Ambient,72,No,No
+190,190WashingtonThursday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+191,191WashingtonThursday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+192,192WashingtonThursday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+193,193WashingtonThursday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+194,194WashingtonThursday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+195,195WashingtonThursday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+196,196WashingtonThursday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Thursday,Thursday,2,,Fresh,72,No,No
+197,197WashingtonFriday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Friday,Friday,2,,OTB Ambient,72,No,No
+198,198WashingtonFriday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Friday,Friday,2,,OTB Ambient,72,No,No
+199,199WashingtonFriday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Friday,Friday,2,,OTB Ambient,72,No,No
+200,200WashingtonFriday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Friday,Friday,2,,OTB Ambient,72,No,No
+201,201WashingtonFriday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+202,202WashingtonFriday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+203,203WashingtonFriday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+204,204WashingtonFriday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+205,205WashingtonFriday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+206,206WashingtonFriday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+207,207WashingtonFriday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Friday,Friday,2,,Fresh,72,No,No
+208,208WashingtonSaturday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,72,No,No
+209,209WashingtonSaturday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,72,No,No
+210,210WashingtonSaturday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,72,No,No
+211,211WashingtonSaturday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Saturday,Saturday,2,,OTB Ambient,72,No,No
+212,212WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+213,213WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+214,214WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+215,215WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+216,216WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+217,217WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+218,218WashingtonSaturday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Saturday,Saturday,2,,Fresh,72,No,No
+219,219WashingtonSunday2,68807,Washington,68807,68807,35611,,1,19:59-20:00,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,72,No,No
+220,220WashingtonSunday2,68807,Washington,68807,68807,35611,,1,20:29-20:30,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,72,No,No
+221,221WashingtonSunday2,68807,Washington,68807,68807,35611,,1,23:29-23:30,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,72,No,No
+222,222WashingtonSunday2,68807,Washington,68807,68807,35611,,1,23:58-23:59,Delivery,dd,Sunday,Sunday,2,,OTB Ambient,72,No,No
+223,223WashingtonSunday2,68807,Washington,68807,68807,30111,,1,11:59-12:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+224,224WashingtonSunday2,68807,Washington,68807,68807,30111,,1,15:59-16:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+225,225WashingtonSunday2,68807,Washington,68807,68807,30111,,1,17:59-18:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+226,226WashingtonSunday2,68807,Washington,68807,68807,30111,,1,18:59-19:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+227,227WashingtonSunday2,68807,Washington,68807,68807,30111,,1,19:59-20:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+228,228WashingtonSunday2,68807,Washington,68807,68807,30111,,1,20:59-21:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No
+229,229WashingtonSunday2,68807,Washington,68807,68807,30111,,1,21:59-22:00,Delivery,dd,Sunday,Sunday,2,,Fresh,72,No,No

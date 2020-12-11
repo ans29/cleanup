@@ -1,0 +1,19 @@
+VehicleId,Vehicle Group,Vehicle Type,Vehicle Category,Vehicle Number,Owner,Max Cages,Empty Weight,Max Product Weight,Max Weight,Height,Width,Length,Attributes
+1,tractor4x2,Tractor,Ambient - Boxed,1,Tesco,0,0,38000,0,0,0,0,
+2,tractor6x2,Tractor,Ambient - Curtain,2,Tesco,0,0,44000,0,0,0,0,
+3,dd,Trailer,Fridge,3,Tesco,72,25000,19000,44000,16.29,8.59,13,
+4,13m,Trailer,Fridge,4,Tesco,45,19000,19000,38000,14.29,8.59,13,
+5,12m,Trailer,Fridge,5,Tesco,42,19000,19000,38000,14.29,8.59,12,
+6,10m,Trailer,Fridge,6,Tesco,33,23000,15000,38000,14.29,8.59,10,
+8,8m,Trailer,Fridge,8,Tesco,27,27010,10990,38000,14.29,8.59,8,
+9,rigid10m26t,Rigid,Fridge,9,Tesco,27,19000,7000,26000,14.29,8.59,10,
+10,rigid10m18t,Rigid,Fridge,10,Tesco,27,11000,7000,18000,14.29,8.59,10,
+11,rigid8m16t,Rigid,Fridge,11,Tesco,21,9000,7000,16000,14.29,8.59,8,
+12,13m_low,Trailer,Fridge,11,Tesco,45,19000,19000,38000,13,8.59,13,
+13,12m_low,Trailer,Fridge,12,Tesco,42,19000,19000,38000,13,8.59,12,
+14,10m_low,Trailer,Fridge,13,Tesco,33,23000,15000,38000,13,8.59,10,
+15,rigid10m26t_ulez,Rigid,Fridge,9,Tesco,27,19000,7000,26000,14.29,8.59,10,ulez
+16,rigid10m18t_ulez,Rigid,Fridge,10,Tesco,27,11000,7000,18000,14.29,8.59,10,ulez
+17,rigid8m16t_ulez,Rigid,Fridge,11,Tesco,21,9000,7000,16000,14.29,8.59,8,ulez
+18,tractor4x2_ulez,Tractor,Ambient - Boxed,1,Tesco,0,0,38000,0,0,0,0,ulez
+19,tractor6x2_ulez,Tractor,Ambient - Curtain,2,Tesco,0,0,44000,0,0,0,0,ulez

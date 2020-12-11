@@ -1,0 +1,1636 @@
+Location Id,Location Name,Location Type,Format,Dotcom Locations,Night to Day Locations,Number of Bays,Drop Sequence,Paired Location,Last Drop Restriction,Council Restricted,Country,Cage Consolidation,Vol Before Cage Consolidation
+2005,Abington Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2008,Abingdon Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2013,Swindon Abbey Mds Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2017,Addlestone Extra,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+2020,Amersham,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2025,Aldershot Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2030,Andover 2  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2032,Andover Cricketers Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2038,Aylesbury Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2041,Aylesbury 2,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2043,Jackson Rd Aylesb Exp,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+2044,Ashby De La Zouch Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2047,Ashford Middlesex Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2048,Axminster,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2064,Banbury,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2080,Basingstoke Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2089,Berkhamsted Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+2102,Bognor Regis  Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2111,Broadstone  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2115,Bracknell North,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2117,Blandford Forum Superstore,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2120,Basingstoke  Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2124,Brackley,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2132,Bracknell,Store,Superstore,Yes,No,1,,,No,Yes,England,Yes,7
+2156,Bursledon  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2160,Brooklands Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2162,Buckingham,Store,Superstore,Yes,Yes,1,,,No,Yes,England,Yes,7
+2163,Burgess Hill,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2164,Bournemouth  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2170,Burton On Trent,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2175,Bitterne  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2185,Bushbury Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2193,Bordon Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2194,Bognor Station Rd  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2198,Aldwick Road  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2214,Cannock,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2219,Green Ln Cstl Brm Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2223,Bell Hill Petersfield Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2234,Chineham (Lychpitt) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2247,Caversham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2255,Chard,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2257,Chaddesden Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2266,Chichester 2  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2267,Chalfont Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2279,Cirencester Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2282,Christchurch  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2302,Coventry 2,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2305,Bowmont Sq Bicstr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2313,Crawley Hazelwick Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2318,Hook Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2319,Cogges Hil Witney Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2321,Cirencester 1,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2322,Cosham Superstore,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2323,Coventry Walsgrave,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2325,Coventry 4,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2328,Coventry Arena Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2334,Frimley  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2335,West Bromwich,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2338,Combe Down Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2339,Copnor  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2341,Cowley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2344,Hall Green Stratford Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+2347,Blackfield  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2355,Bridgnorth Telfrd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2364,Crawley Poundhill Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2366,Chilwell Nottnghm Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2367,Church Gresley Exp,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+2368,Cookley Kiddmnstr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2369,Ashby Fld Davntry Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2372,Daventry,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2374,Dibden Purlieu  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2379,Downlnd Dr Crawly Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2380,Derby Alvaston Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2381,Derby Hilton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2384,Duston Alsace Prk Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2385,Lark Rise Brackly Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2386,Dudley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2404,Derby Mickleover,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2413,Didcot,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2415,Cricklade Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2423,Dorchester  Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2425,Dunstable,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2446,East Hunsbury Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2447,East Wittering  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2452,Eastleigh Superstore,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+2454,Egham ,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2475,Emmer Green Reading Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2484,Erdington Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2488,Eynsham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2494,Elm Grove  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2496,Farlington  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2499,Fettiplace Witney Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2501,Fazeley Tamworth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2503,Birmingham Caxton Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2504,Barnt Green Bham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2505,Droitwich Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2509,Baughurst Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2510,Billingshurst  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2511,Ashdown  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2514,Calmore  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2515,Dorridge Solihull Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2516,Fleet Ancells  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2518,Freshbrook Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2520,Fairoak  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2530,Ferndown Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2532,Feltham,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2537,Fordingbridge  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2538,Feltham Dukes Green,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2552,South Fleet  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2563,Grove Hill Hemel Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2564,Gerrards Cross,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2586,Hoover Building,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2590,Guildford  Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2594,Great Wyrley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2606,Claregate Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2608,Dudley Rd Haleswn Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2609,Hayling Island  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2611,Henwick Prk Worcs Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2624,Hall Green,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2628,Harrow 2,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2636,Haslemere  Superstore.Com,Store,Superstore,Yes,No,1,,,No,Yes,England,Yes,7
+2637,Harrow Exp ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2640,High Wycombe,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2641,Highworth Swindon Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2642,Hayes Bulls B/Dge Ext,Store,Extra,No,No,1,,,No,No,England,Yes,7
+2644,Leigh Park  Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2650,Hearthcot Rd Swad Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2653,Henley,Store,Superstore,Yes,Yes,1,,,No,Yes,England,Yes,7
+2657,Hart Place Bicstr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2663,Hemel Hempstead,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2668,High Wycombe Loudwtr,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2670,Hook Superstore,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2675,Horsham,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2679,Honiton,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2683,Horley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2688,Horsham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2695,Hythe  Superstore,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2696,Hove  Express,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+2700,Hove,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2704,Denmark Villas Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2708,Haven Grn Ealing Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2713,Hampton Hill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2724,Droveway (Hove) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2733,Ilkeston Extra,Store,Extra,No,No,1,,,No,Yes,England,Yes,7
+2763,Kempshott Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2768,St Margarets Twik Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2770,Kidderminster,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2772,Kidsgrove,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2773,Kinwrtn Rd Alcstr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2780,Kingswinford Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2782,Kingsworthy Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2785,Knowle Metro,Store,Metro,No,No,1,First Drop,,No,Yes,England,Yes,7
+2788,Kidlington,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2793,Kirby Frith Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2802,Langport,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2811,Littlehampton  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2812,Leatherhead,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2813,Leamington Spa ,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2817,Langford Bicester Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2819,L/Ster Hamilton Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2820,Leicester Fosse Exprs,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2822,Lewes,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2825,Leighton Buzzard,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2833,Littlehampton Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2843,Luton Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+2844,Long Eaton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2845,Lymington  Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2846,Leicester Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2847,Luton Sundon Park Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2849,Loughborough Extra,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+2850,Longton Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2853,Luton Limbury Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2869,Maidenhead Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2878,Market H/Borough Met,Store,Metro,No,No,1,First Drop,,No,Yes,England,Yes,7
+2880,Midsomer Norton,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2900,Meir,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2919,Newbury Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2924,New Milton  Superstore.Com,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2927,Newbury Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+2933,New Oscott Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2949,Long Eaton Extra,Store,Extra,Yes,Yes,1,,,No,Yes,England,Yes,7
+2950,Narborough Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2959,Lode Heath Solihl Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2960,Nottingham Metro,Store,Metro,No,No,1,First Drop,,No,No,England,Yes,7
+2964,Nottingham Carlton,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2966,Yeovil Ilchester Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2972,Langley Slough Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2974,Nuneaton Croft Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2975,Ocean Village  Express,Store,Express,No,No,1,Last Drop,,No,Yes,England,Yes,7
+2990,Oxford ,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2994,Oxford 2,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+2996,Olton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2997,Oldswinford Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3015,Petersfield Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3020,Linslade Buzzrd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3025,Nyetimber Bognor Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3030,Pinner,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3036,Poole 2  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3040,Poole 3 - Fleets Corner Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3045,Princes Risborough,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3047,Poole 4 - Branksome Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3048,Portsmouth - Creswell St Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3052,Portslade,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3054,Portswood  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3055,Portsmouth 2  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3058,Poole  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3062,Liden Swindon Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3073,Lichfld Nethrstow Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3075,Northbourne  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3076,Sileby Leicester Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3080,Reading Shinfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3083,Northwood Hills Exp,Store,Express,No,No,1,First Drop,,No,No,England,Yes,7
+3084,Redditch Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3095,Reading Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3097,Richmond Metro,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+3099,Rickmansworth,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3102,Richmond Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3115,Rugby,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3123,Lavender Road  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3124,Lilliput Poole Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3125,Limehst Sq Duston Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3126,Shenstone Lichfld Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3127,Locksheath Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3132,Shirley Hobs Moat Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3133,Salisbury 2 Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3134,North Feltham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3143,Southwold Bicestr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3149,Sandhurst Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3151,Salisbury 1 Superstore,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+3153,South Hayes Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3165,Stapenhill Burton Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3178,Shoreham Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3186,Albert Road Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3188,Solihull,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3190,Southampton 2,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3195,Stow-On-The-Wold,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3199,Storrington Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3211,Slough Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3212,Stratford Upon Avon,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3217,Swindon Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3220,Sunbury Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3230,Swindon Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3239,Stoke,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3242,Southcote Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3244,Stafford Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3247,Spinny Hill Nhant Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3248,Wimpson Lane  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3258,Studley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3262,Lodge Park Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3263,Stourprt Rd Kiddm Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+3265,Spennells Kidmstr Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3268,Carless Close Gosport Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3269,Mailbox Bham Express,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+3278,Liss  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3284,Teddington,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3290,Telford Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3293,Towcester,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3297,Toton Extra,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+3309,Tring,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3311,Popley (Basingstoke) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3312,Northolt Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3316,Trowbridge,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3324,Twickenham,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3326,Peacehaven Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3327,Uttoxeter,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3328,New Rd Uttoxeter Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3335,Uxbridge Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3338,Valley Park  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3339,Valence Cr Witney Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3343,Warners End Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3351,Walsall Brownhills,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3367,Wooburn Hi Wycmbe Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3370,Warwick,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3374,Wednesfield Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3376,West Moors  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3381,West Byfleet Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3384,Shaftesbury Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3385,Wells,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3388,Southampton FareShare,Fare Share,Fare Share,No,No,1,Last Drop,,No,No,England,No,1000
+3390,Weymouth  Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3391,Brighton Fareshare,Fare Share,Fare Share,No,No,1,Last Drop,,No,No,England,No,1000
+3395,Whitton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3398,Stafford Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3404,Windsor,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3405,Water Orton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3406,Winchester Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3411,Wokingham,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3418,Witney Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3423,Lodmoor Hill Wmth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3425,Whiteley Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3430,Worcester 1,Store,Superstore,Yes,No,1,,,No,Yes,England,Yes,7
+3431,Worcester Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3432,Glenmoor Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3440,Worcester 2,Store,Superstore,Yes,No,1,,,No,Yes,England,Yes,7
+3442,Wycombe North Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3443,Wycombe South Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3447,Woodingdean Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3450,Woodley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3451,Findon  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3455,Harestock  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3456,Wendover Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3460,West Totton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3461,Western Rd (Hove) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3462,Wbassett Woodshaw Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3463,Worcester Warndon Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3465,Wessex Rd  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3469,Yateley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3470,Yeading Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3481,Queens Rd Wybrdge Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3485,Ramleaze Drive Swindon Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3493,Yeovil,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+4335,Bedfont Staines Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+4338,Faringdon Pk Rd,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+4341,Gosport Rowner Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+4343,Waterlooville London Road Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+4357,Stourbridge Extra,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+4377,Oxford Abingdon Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4380,Romsey Rd Southampton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4395,Taplow,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+4403,Lymington South Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4409,Goring Gatehampton Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4413,Bournemouth Tuckton Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4423,Kinson,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+4431,Reading Whitely,Store,Express,No,No,1,,,No,No,England,Yes,7
+4432,IOW Lake Sandown,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4445,Calne Beverbrook Rd,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+4466,Farnborough Cove Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4469,Bath Weston,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4477,Worthing Dolphin,Store,Express,No,No,1,,,No,No,England,Yes,7
+4480,Bicester,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+4503,High Wycombe London Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4512,Bewdley Load St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4540,Hillingdon Pield Heath Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4541,Spring Grove Isleworth,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4555,Grand Central,Store,Express,No,No,1,,,No,No,England,Yes,7
+4558,Reading Silverdale Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+4573,Hemel Hempstead Fletcher Way,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4579,Fratton Park Extra,Store,Extra,No,Yes,1,,,No,No,England,Yes,7
+4611,Portsmouth Brunel Road,Store,Express,No,No,1,,,No,No,England,Yes,7
+4614,Yeovil Cavalier Way,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4615,Basingstoke Oakridge Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4622,Sandhurst Yorktown Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+4626,London Fulham Reach,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4642,Salisbury Wilton Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4877,Weymouth Portland Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+4890,High Street Solihull,Store,Express,No,No,1,,,No,No,England,Yes,7
+4891,Maylands Plaza Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+4893,High Street Winchester Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4933,Depot Didcot,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4936,Depot Hinckley,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4937,Southampton Depot Free Fruit Old,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4940,Depot Daventry Frozen,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4943,Depot Reading,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4949,Depot Lichfield,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4950,Depot Daventry Grocery,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+4954,Depot Daventry Cloth,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+5000,Marlbrook Brmsgrv Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5002,Four Marks Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5007,Emsworth Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+5008,Alton  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5009,Ifield Crawley Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5012,Langdale Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5014,Evesham Worcester Rd,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+5015,Rowley Regis Bham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5017,St. James Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5020,Appenine Wy Lbuzz Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5025,Darby Green (Yateley) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5026,Cockcroft Didcot Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5027,Muscliffe Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5028,Broadwater - Worthing Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5033,Balsall Common,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5034,Southbourne Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5035,Ridgeway - Farnham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5036,Hasbury Halesowen Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5044,St Marys Street Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5045,Forest Pk Brcknll Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5047,Gatehse Burgs Hll Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5049,Leyes Ln Kenlwrth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5050,Butlers Lane - Poulner Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5051,Cholsey Wallngfrd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5054,Thatcham Newbury Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5055,Ludgershall Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5056,Corporatn St Birm Exp,Store,Express,No,No,1,Solo,,No,Yes,England,Yes,7
+5058,Alresford Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5062,Whitchurch Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5063,Warminster Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5064,Amington Tamworth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5067,Measham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5072,Lytchett Matravers Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5073,Moordown (Bournemouth) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5074,Pershore Worcester Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5075,Herbert Ave (Poole) Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5076,Iver Heath Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5088,Bear Road Hanworth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5089,Brockenhurst Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5090,Moreton In The Marsh Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5092,Haygate Rd Telford Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5098,Whitehouse S Coldfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5099,Stourbridge Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5114,Sheldon Birmingham,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5129,Pulborough Superstore,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+5135,Slough Wellington Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5141,Tanhouse Lane  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5142,Woodville Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5143,Market Hill Buckm Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5149,Aberdale Rd Leics Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5153,Goldsmith Ave Portsmouth Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+5155,South Street Chichester Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5161,Westbury Leigh Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5165,Bewdley Exp,Store,Express,No,No,1,Last Drop,,No,Yes,England,Yes,7
+5167,Hale Farnham  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5168,Coventry Cross Point,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5172,Old Milton  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5182,Leicester South Wigston,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5197,Universty Exp,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+5203,Dickens Heath Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5207,Frankley Birmingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5209,Rottingdean  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5213,Durrington  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5223,Hurst St Birmingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5224,Tilehurst Reading Exp,Satilite Hub,Express,No,No,1,,,No,Yes,England,Yes,7
+5225,Audnam Stourbridge Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5227,Streetly Birmingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5228,Bromford Castle Bromwich Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5242,Haywards Heath Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5246,Narborough Road Uckfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5250,Twyford Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5270,Stone cross Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5278,Willenhall Birmingham Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5286,High Street Dunstable Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5299,Tidworth Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5315,Greenwood Crowthorne Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5316,Bournemouth Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5318,Birmingham RD Sutton Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5321,Jubilee St  Express,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+5325,Quinton,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5329,Nottingham Beeston,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+5332,Shrewsbury Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5338,Dosthill Tamworth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5352,Pokesdown Boscombe Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5362,Cradely Heath,Store,Extra,No,No,1,,,No,No,England,Yes,7
+5365,Wexham Rd Slough Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5370,Rectory Worthing Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5371,Craddocks Ashstead Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5378,Notts Top Valley,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+5381,Lymington Highcliff  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5384,Isleworth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5386,Bourneville Birmingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5391,Bath Rd Hounslow Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5392,Jewellery Qt Birmingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5394,Charminster Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5397,Eastfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5401,Cobden Avenue Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5403,Penn Rd Wolverhampton Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5415,Barnacres Hemel Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5429,Grove Wantage,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5434,Weymouth Lanehouse,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5438,Shepton Mallet,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+5442,Ilminster,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5446,Charlton Andover  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5461,Farnham Common,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5471,Peasedown Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5472,Plomer Green Lane H Wycombe,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5475,London Rd (Portsmouth) Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+5478,Ashford,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5495,Hinckley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5498,Kings Heath Birmingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5503,Willenhall,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5504,Birmingham Aston Lane,Store,Superstore,Yes,Yes,1,,,No,Yes,England,Yes,7
+5506,Hagley Rd Birmingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5519,Shirley Road (Soton)  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5525,Amersham Hill Ave,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5528,Reading Battle Hospital,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+5533,Spring Rd Soton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5542,Bathwick Hill Bath,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5549,Gornal Dudley,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5553,Ball Hill Coventry,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5559,Seaford Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5562,Goring Way Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5563,Andover Weyhill Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5567,Ryde 2 Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5570,Hermitage,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5583,Swindon Prioryval,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5593,Birstall Leicester,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5607,Evesham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5615,Midhurst North Street 2 Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5618,Hedge End Soton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5631,Southbourne Grove Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5634,Kidderminster Comberton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5656,Robin Hood Birmingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5661,Wooton Bridge Iow  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5662,Granby St Leicester,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5664,Durrington Bulford,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5667,Clifton Lane Nottingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5672,Worthing South Farm Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5706,Knaphill High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5712,Stratford Banbury Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5716,Bourne End Parade,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5724,Northampto Link Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5725,Rustington Littlehampton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5746,Luton Dunstable Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5751,Erdington Sixways,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+5779,Shelton Coventry,Store,Express,No,No,1,,,No,No,England,Yes,7
+5783,Aldridge,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5787,Ickenmah High Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5789,Reading Crown House ,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+5807,Southampton Burgess Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5809,Bognor Regis  Express,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+5810,Slough Burnham Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+5812,Middle Rd Banbury,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5828,Coventry Holyhead ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5831,Leicester Saffron Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5837,Gunwharf Quays Portsmouth Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5839,Leicester Humberstone,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5851,Hanley,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5852,Lichfield,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+5853,Telford Madeley Centre,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5854,Birmingham Hodge Hill,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5862,Market Winchester Express,Store,Express,No,No,1,First Drop,,No,No,England,Yes,7
+5867,Luton Hitchin Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5880,Bournemouth Triangle Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+5886,Derby,Store,Metro,No,No,1,,,No,No,England,Yes,7
+5893,Worcester Foregate,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5895,Verwood Ringwood Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5902,Hinckley,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5905,Iow Ventnor  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5913,Bathrow Birmingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5921,Leicester Hinckley Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5927,New Rd High Wycombe,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5966,Banbury Rd Oxford,Store,Express,No,No,1,,,No,No,England,Yes,7
+5971,Hungerford,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+5984,Belgrave Gate Liecs,Store,Express,No,No,1,,,No,No,England,Yes,7
+5996,Kingsley Park ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6002,Havant  Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+6006,Lillington,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6011,Guildford Surrey  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6012,Brighton Queens Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6014,Houndslow Staines Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6016,Worthing Chpel Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6030,Burnham High St ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6045,Lillie House Leicester,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6046,Kingstanding Bham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6056,West Durrington Extra.Com,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+6060,Derby Stenson Rd,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+6065,Shepshed ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6091,Ruislip High St,Store,Express,No,No,1,,,No,No,England,Yes,7
+6092,Datchett,Store,Express,No,No,1,First Drop,,No,No,England,Yes,7
+6103,Nottingham Compton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6112,Birmingham Colmor,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6114,Wroughton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6119,Selly Oak Bristol Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+6124,Reading Market Place,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6135,Loughborough Rushes,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6136,Poole Quay Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6137,Luton Bishops Crt Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6139,Reading Oxford Rd,Store,Express,No,No,1,Last Drop,,No,Yes,England,Yes,7
+6141,Great Barr,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6142,Hayes Uxbridge,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6148,Southampton High Street Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6159,Northampton St Edmunds,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6160,Westbury For Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6161,Walsall College ,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+6163,Yiewsley,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+6165,Guilford Bridge  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6167,Oxford St Aldates,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6170,Hayes Station Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6174,Twickenham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6178,Market Harborough,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6189,North End Portsmouth Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6192,Newbury,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6195,Leicester Bede Island,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6197,Dudley,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+6202,West Parley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6207,St Albans Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6214,London Road Southampton  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6219,Ascot High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6223,Leicester Syston,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+6226,Bulwell Extra,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+6227,Birmingham Spring Hill,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+6242,Westbourne Poole  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6246,Melksham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6249,Southam,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6255,Fareham Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6262,Maidenhead Bth Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6276,Rugby Cattle Market,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6292,Oxford Magdalen,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6294,Amesbury Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+6295,Portland Easton Superstore,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6299,West Heath Birmingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6300,Welford House Leicester,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6305,Birmingham Hockley,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6316,Bournemouth Holden Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6320,Epsom Horton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6321,Epsom Station,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6323,Burghfield Common,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6331,Marlborough,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6338,High St Banbury,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6369,Leicester Melton Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6388,Birmingham Bristnall Hall,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6399,Bournemouth  Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6403,Rickmansworth ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6405,Worthing Goring Rd  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6411,Rugby Bilton Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6418,Evington,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6426,Abingdon Fitzharis ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6428,Chellaston Derby Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6441,Sutton Coldfield Walsall Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6446,Hemel Hempstead Marlows,Store,Express,No,No,1,,,No,No,England,Yes,7
+6447,Redditch The Brockenhill PH,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6448,Northampton,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6457,Seaton,Store,Superstore,Yes,No,1,,,No,Yes,England,Yes,7
+6461,Feltham ,Store,Express,No,No,1,,,No,No,England,Yes,7
+6462,Birmingham Carrs Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6463,Yardley,Store,Extra,No,No,1,,,No,No,England,Yes,7
+6473,Bedworth,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+6481,Rugeley,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6489,Tempest Rd Waterlooville  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6501,Lee On Solent Marine  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6503,Northchurch,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6519,Abingdon Oxford Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6527,Crawley Haslett Ave,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6532,Reading Tilehurst,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6533,Bournemouth Dolphin Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6542,Woking Guildford Rd  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6564,Bath 4-5 Westgate Buildings,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6569,Stafford Stone Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6570,Sutton Coldfield Boldmere,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6573,Leicester Narborough Rd,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6576,Westway Hove  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6577,Portsmouth Kingston Rd Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6582,Isleworth Thorncliffe Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6589,Barnham Inn,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6598,Southampton Lordswood  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6599,Twyford - 25 London Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6602,Handsworth Oxhill Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6607,Gosport Forton  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6614,Greenford Lady Margaret Rd,Store,Express,No,No,1,Last Drop,,No,Yes,England,Yes,7
+6616,West Drayton,Store,Express,No,No,1,,,No,No,England,Yes,7
+6618,Poole Shore Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6636,Birmingham 576-588 Bristol Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6638,Stourport,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+6642,Rugby Helvelyn Way,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6645,Glastonbury,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6647,Crawley,Store,Dotcom Centre,No,No,1,,,No,No,England,Yes,7
+6655,Lovedean Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6659,Crawley Betts Way ,Store,Express,No,No,1,,,No,No,England,Yes,7
+6660,Poole Wallisdown Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6662,Burton Upon Trent Station Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6669,Ashvale Lysons Ave  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6672,Hednesford Victoria St,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6678,Leicester Rd Loughborough,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6679,Portsmouth Eastney  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6681,Bognor Regis Chichester Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6682,Southampton Butt Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6683,Chobham Station Rd Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6684,Blackwater Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6685,Birmingham Alcester Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6687,Upper Shoreham Rd  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6697,Hounslow Hanworth,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6700,Pensett High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6716,Kingswinford Bromley Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6722,Weedon High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6727,Wolverhampton Birches Barn,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6738,Walton Hersham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6741,Bilston Willenhall,Store,Express,No,No,1,,,No,No,England,Yes,7
+6742,Windsor Clarence Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6747,High Wycombe Chapel Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6748,Stokenchurch Wycombe Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6777,Kidderminster Stourbridge Rd,Store,Express,No,No,1,Last Drop,,No,Yes,England,Yes,7
+6782,Leicester Lutterworth Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6788,Horsham Silver Wok,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6789,Poole Ringwood Rd  Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6795,Eastleigh Bishopstoke  Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6809,Telford Hadley District,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6813,Southampton Witts Hill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6817,High Wycombe Hatters Lane,Store,Express,No,No,1,,,No,No,England,Yes,7
+6818,Reading Oxford Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6820,Ashford Staines RD,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6830,Hythe Langdown Lawn Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6832,Luton Eaton Rd,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+6834,Reading London Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+6836,Southall King St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6840,Southampton Thornhill Park Road Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6841,Southsea Palmerston Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6852,Wolverhampton Hurst Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6854,Glenfield Dominion Leics,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6857,Countesthorpe,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6858,Cannock Stafford Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6876,Willenhall High St,Store,Express,No,No,1,,,No,No,England,Yes,7
+6880,Headington London Rd,Store,Express,No,No,1,First Drop,,No,Yes,England,Yes,7
+6897,Maidenhead Furze platt,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6998,Wembley,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+30002,Doncaster DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30052,Snodland DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30053,Didcot DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30054,Dagenham DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30102,Hinckley DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30103,Southampton DC,Depot,Fresh RDC,No,No,30,,,No,No,England,No,1000
+30110,Peterborough DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+30111,Livingston DC,Depot,Fresh & Grocery RDC,No,No,1,,,No,No,Scotland,No,1000
+30113,Widnes DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+34002,Magor DC,Depot,Grocery RDC,No,No,1,,,No,No,Wales,No,1000
+34512,Lichfield DC,Depot,Grocery RDC,No,No,1,,,No,No,England,No,1000
+34514,Middlesbrough DC,Depot,Grocery NDC,No,No,1,,,No,No,England,No,1000
+34515,Avonmouth DC,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+34517,Reading DC,Depot,Grocery RDC,No,No,1,,,No,No,England,No,1000
+35606,Magor TS,Depot,Grocery RDC,No,No,1,,,No,No,Wales,No,1000
+35611,Goole DC,Depot,Grocery RDC,No,No,1,,,No,No,England,No,1000
+35612,Daventry Clothing DC,Depot,Grocery NDC,No,No,1,,,No,No,England,No,1000
+37197,Daventry Frozen DC,Depot,Frozen RDC,No,No,1,,,No,No,England,No,1000
+37198,Thurrock DC,Depot,Grocery RDC,No,No,1,,,No,No,England,No,1000
+38110,Daventry TS,Satilite Hub,RTS,No,No,1,,,No,No,England,No,1000
+38111,Newton Abbott Consol Hub,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+51019,Southampton Depot Free Fruit New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+53001,Tesco Czech Republic,Export,Export,No,No,1,,,No,No,England,,
+53002,Tesco Hungary,Export,Export,No,No,1,,,No,No,England,,
+53005,Poland Gliwice,Export,Export,No,No,1,,,No,No,England,,
+53006,Tesco Slovak Republic,Export,Export,No,No,1,,,No,No,England,,
+53008,Export - Tesco Thailand,Export,Export,No,No,1,,,No,No,England,,
+53015,Mena Malta,Export,Export,No,No,1,,,No,No,England,,
+53021,Mena Singapore,Export,Export,No,No,1,,,No,No,England,,
+53023,Poland Teresin,Export,Export,No,No,1,,,No,No,England,,
+53024,Bermuda Distributer,Export,Export,No,No,1,,,No,No,England,,
+53029,SOK Finland - (Ferryfreight Fresh),Export,Export,No,No,1,,,No,No,England,,
+53031,Hong Kong,Export,Export,No,No,1,,,No,No,England,,
+53034,MENA Cyprus ,Export,Export,No,No,1,,,No,No,England,,
+53039,FERRY PORT ( Alliance Guernsey ),Export,Export,No,No,1,,,No,No,Export,,
+53041,Reynolds Catering Supplies LTD,Export,Export,No,No,1,,,No,No,Export,,
+53055,FERRY PORT ( Alliance Jersey ),Export,Export,No,No,1,,,No,No,Export,,
+53057,Pakistan,Export,Export,No,No,1,,,No,No,England,,
+53060,CE Consolidation,Export,Export,No,No,1,,,No,No,England,,
+53062,Hong Kong Airfreight,Export,Export,No,No,1,,,No,No,England,,
+53063,SOK Finland - (Airfreight Fresh),Export,Export,No,No,1,,,No,No,England,,
+53065,Walker House Jersey,Export,Export,No,No,1,,,No,No,Export,,
+53070,St  Ouen Jersey,Export,Export,No,No,1,,,No,No,Export,,
+53071,Broad Street Jersey,Export,Export,No,No,1,,,No,No,Export,,
+53072,Singapore Airfreight,Export,Export,No,No,1,,,No,No,England,,
+53075,Saigon Union of Trading Cooperatives Vietnam,Export,Export,No,No,1,,,No,No,England,,
+53080,Bingo Bosnia,Export,Export,No,No,1,,,No,No,England,,
+57815,BKR 618CHEF DIRECT DC,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57866,BKRCC 184 Burton,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57867,BKRCC 185 Leicester,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57868,BKRCC 190 Tamworth,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57869,BKRCC 191 Warwick,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57872,BKRCC 195 Swindon,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57898,BKRCC 273 Slough,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57902,BKRCC 280 Worcester,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57905,BKRCC 290 High Wycombe,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57907,BKRCC 302 Coventry,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57910,BKRCC 305 Rugby,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57927,BKRCC 327 Nottingham,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57929,BKRCC 329 Luton,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57930,BKRCC 331 Nuneaton,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57932,BKRCC 337 Stirchley,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57940,BKRCC 351 Sunbury,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57942,BKRCC 354 Saltley,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57944,BKRCC 356 Greenford,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57945,BKRCC 357 Wolverhampton,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57948,BKRCC 366 Kingswinford,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57954,BKRCC 377 Derby AR,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57956,BKRCC 380 Wolves SR,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57988,BKRCC 534 Oxford,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57999,MAKRO 572 Birmingham,Booker,Booker,No,No,1,,,No,No,England,No,1000
+58006,MAKRO 581 Enfield,Booker,Booker,No,No,1,,,No,No,England,No,1000
+58008,MAKRO 584 Leicester,Booker,Booker,No,No,1,,,No,No,England,No,1000
+58009,MAKRO 585 Reading,Booker,Booker,No,No,1,,,No,No,England,No,1000
+68807,Washington Consol Hub,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+1052355,Noble Foods (Cannock),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1162602,Moy Park LTD,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1234567,Samworth Brothers,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1234568,Samworth Brothers Beaumont Leys,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1234569,Samworth Brothers/ Oak Meadow,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1422601,Polarcube (01977 655845),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1423200,Fowler Welch (Bourne),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1764550,Braces Bakery,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1910827,Moy Park,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1928903,Flamingo Produce,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1928904,Keelings,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1928909,Van Den Bergh,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1928910,Katsouris,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929601,Natures Way (Runcton),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929604,Kerry Foods,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929605,Alresford Salads,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929610,Langmeads (Bosham),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929646,Fiddleford Mushrooms,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929805,Kingdom Bakeries,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929808,Monaghan Mushrooms,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929902,Berry Gardens,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929906,Staveleys Eggs,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929909,Drinkwater Mushrooms,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930001,XPO Logistics,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930301,Grain D'Or,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930304,Fine Lady Bakery,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930306,Alresford Salads,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930310,Katsouris,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1930311,World Flowers,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931000,Fine Lady Bakery,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931001,Kerry Foods Fradley Park,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931004,Ceva Corby,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931007,Flagship Meats,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931012,Warrens,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931028,Wealmoor Tewkesbury,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931029,Dairycrest,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931030,Stobart Alcester Depot,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931035,P.O.S. Bags,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931601,Coolchain,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931604,Griffin & Brand,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931609,Van Den Burgh,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931620,St. Nicholas,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931624,Grapes Direct,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931625,Hoads Farm,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931900,Pizza Factory,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931901,Solway Manton Wood,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931905,Reed Boardall,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931906,Laurens Patisserie Ltd,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931907,Seachill,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931908,Branstons,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931909,Arla Foods,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931911,Hedon Salads,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931912,Monaghan Mushrooms,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931914,Stobarts,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931915,Fletchers Bakery,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931917,Key Country Foods,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1931930,Nottingham Bakery (Hovis),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932102,Branstons,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932103,Monahan Mushrooms,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932106,Rodda Cream,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932110,Memory Lane Cakes,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932111,Yeo Valley,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932121,Dartfresh,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932144,St Merryn M'Thyr,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932147,Langdons,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1932155,Roache Foods,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+2103200,Culina Market Drayton,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+2103201,Culina Stafford,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+2336400,Whyte & Mckay,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+3328600,Bourne Salads,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126802,Bartletts,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126803,Geest,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126804,Flamingo,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126806,Corby (Saxon),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126807,Bowes,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126808,Ramsay,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126810,Solway Corby,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126811,Zwetsloots,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126813,Branstons,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126816,Turners,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126820,Ceva Corby,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6172702,Frank Roberts Bakery,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+7892100,Resource Animal Feed,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+8880030,Stobarts,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+3225800,Pratts Bananas,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6126812,Culina Avonmouth,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6888100,Avara Foods,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+4826980,Berryworld Hall Hunter ,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+5041520,Stourgarden,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+3145,St Neots,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2125,Didcot Fare Share,Fare Share,Fare Share,No,No,1,,,No,No,England,No,1000
+38508,Hinckley RSU,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+9999999,Fowler Welch SC,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+35100,Fenny Lock,Depot,Grocery RDC,No,No,1,,,No,No,England,No,1000
+4460,Windsor Peascod Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5527,Little Chalfont,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6261,Bovingdon High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2284,Birmingham Fareshare,Fare Share,Fare Share,No,No,1,,,No,No,England,No,1000
+50876,Depot Daventry Grocery New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+50877,Depot Daventry Clothing New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+50878,Depot Daventry Frozen New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+50885,Depot Lichfield New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+50891,Depot Reading New,Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+53012,Mena Bahrain,Export,Export,No,No,1,,,No,No,England,No,1000
+53017,Mena Kuwait,Export,Export,No,No,1,,,No,No,England,No,1000
+53052,Canda Overwaitea,Export,Export,No,No,1,,,No,No,England,No,1000
+57816,BKR 665BRP ANDOVER DC,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57840,BKRCC 132 Basingstoke,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57841,BKRCC 133 Chichester,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57843,BKRCC 137 Salisbury,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57845,BKRCC 140 Weymouth,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57864,BKRCC 179 Worthing,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57879,BKRCC 219 Sandown,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57908,BKRCC 303 Bournemouth,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57909,BKRCC 304 Portsmouth,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57918,BKRCC 314 Eastleigh,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57923,BKRCC 321 Aldershot,Booker,Booker,No,No,1,,,No,No,England,No,1000
+57926,BKRCC 326 Cowes,Booker,Booker,No,No,1,,,No,No,England,No,1000
+58004,MAKRO 579 Southampton,Booker,Booker,No,No,1,,,No,No,England,No,1000
+58011,MAKRO 587 Poole,Booker,Booker,No,No,1,,,No,No,England,No,1000
+53074,Coupang Corp South Korea,Export,Export,No,No,1,,,No,No,England,No,1000
+50907,Export - Commercial,Export,Export,No,No,1,,,No,No,England,No,1000
+53069,Barbados,Export,Export,No,No,1,,,No,No,England,No,1000
+53073,Trinidad & Tobago,Export,Export,No,No,1,,,No,No,England,No,1000
+53078,Dominican Republic,Export,Export,No,No,1,,,No,No,England,No,1000
+53079,Jamaica,Export,Export,No,No,1,,,No,No,England,No,1000
+53082,Cayman Islands,Export,Export,No,No,1,,,No,No,England,No,1000
+4854,Pinner Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2063,Milton Keynes Fareshare,Fare Share,Fare Share,No,No,1,,,No,No,England,No,1000
+53014,UAE,Export,Export,No,No,1,,,No,No,England,No,1000
+storage001,Swadlincote Cage Centre,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+storage003,Teacrate BIR,Depot,Fresh RDC,No,No,1,,,No,No,England,No,1000
+8881000,Wightlink Ferry Terminal,Port,Port,No,No,1,,,No,No,England,No,1000
+53092,Grenada – BGA,Export,Export,No,No,1,,,No,No,England,No,1000
+53094,Serbia - VICI,Export,Export,No,No,1,,,No,No,England,No,1000
+53095,Ukraine - VICI,Export,Export,No,No,1,,,No,No,England,No,1000
+4804,Meadow Way EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4824,Northwood EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4816,Farnborough EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4829,Hartley Wintney EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4783,Toothill Village EXP ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4798,Telford Woodside EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4799,Narrow Hall Meadow EXP,Store,Express,No,No,1,,,No,No,England,Yes,7
+4797,Malinslee EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4831,Beaconsfield EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4846,Stratford Upon Avon EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4840,Birmingham Bagt Strt EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4497,Penrice Garage EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+53068,Panda Retails Co - Sa,Export,Export,No,No,1,,,No,No,England,No,1000
+4843,Coventry Bishpgat Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+1929603,Natures Way (Drayton),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+38510,Southampton RSU,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929602,Natures Way (Selsey),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+1929600,Natures Way (Merston),Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+62207,Cranswick Milton Keynes,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+53010,Jersey Alliance Holdings,Export,Export,No,No,1,,,No,No,England,No,1000
+53027,Le Cocqs,Export,Export,No,No,1,,,No,No,England,No,1000
+4838,UFC WB,Store,Dotcom Centre,No,No,1,,,No,No,England,Yes,7
+4780,Botley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2259,Cheam Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2934,New Malden Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3295,Tolworth Express,Store,Express,No,No,1,First drop,,No,No,England,Yes,7
+3300,Thornton Heath,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+4564,Bromley Plaistow Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6156,Kingston Thames ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6443,Folkestone Dover Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6686,Surbiton 175 Hook Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+53099,Guernsey Online,Export,Export,No,No,1,,,No,No,England,No,1000
+53093,Jersey Online,Export,Export,No,No,1,,,No,No,England,No,1000
+4888,Twickenham Whitton Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+53025,Antigua BGA,Export,Export,No,No,1,,,No,No,England,No,1000
+53011,Bermuda - Tortola,Export,Export,No,No,1,,,No,No,England,No,1000
+53051,Mena Qatar,Export,Export,No,No,1,,,No,No,England,No,1000
+53009,Grenada- BGA,Export,Export,No,No,1,,,No,No,England,No,1000
+53043,Barbados Emerald  - BGA,Export,Export,No,No,1,,,No,No,England,No,1000
+53098,Jrsy OldFarm Allianc,Export,Export,No,No,1,,,No,No,England,No,1000
+3459920,Flamingo Plants ,Supplier Collection,Supplier Collection,No,No,1,,,No,No,England,No,1000
+6668,London 101 New Cavendish St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6485,London More,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2304,Barton Torquay Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2365,Crediton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2468,Exminster Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2486,Exeter Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+2522,Falmouth Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2620,Heavitree Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2774,Kingsteignton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3033,Plymouth Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+3072,Plympton Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3287,Torquay Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3296,Torquay Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3575,Plymouth Notte St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4369,Barnstaple High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4625,Plymouth Alexandra Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4898,Paignton Victoria Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4918,Budleigh Saltrton Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5256,Churchill Road Exmouth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5258,Compton Plymouth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5319,High St Sidmouth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5349,Bovey Tracey Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5534,Falmouth,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5616,Teignmouth ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5676,Newquay Narrwcliffe,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5865,Exeter Cowick Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5884,Plymouth Beamount Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5891,Paignton Torquay,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5910,Torquay Lymington,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5919,Brixham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5920, Lyme Regis,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6061,Exeter Sidwell,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6087,Torquay Babacombe Rd ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6097,Plymouth St Marys,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6107,Exmouth Rolle St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6115,Penzance,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6176,Exwick,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6303,Ivybridge,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6304,Mutly Place Plymouth ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6377,Plymouth Discovery,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6594,Plymouth Wolsley Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6657,Newquay East St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6842,St Austell Tregonissey Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6896,Westward Golf Links Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2188,Billingham,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2278,Chester Le Street,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2371,Durham Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2562,Rowlands Gill,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2638,Hartlepool Extra,Store,Extra,Yes,Yes,1,,,No,Yes,England,Yes,7
+2914,N/Castle B/Ton Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2915,Newcastle West Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2916,Newton Aycliffe,Store,Extra,No,No,1,,,No,No,England,Yes,7
+2917,Newcastle U/T Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2938,Jesmond Metro,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+2968,Billy Mill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2969,North Shields Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2971,Stockton Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3223,Sunderland Metro,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+3255,South Shields,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3303,Throstn Gra Hpool Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3468,Yarm Eaglescliffe,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+4346,Newcastle Saville Row,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4347,Hetton Le Hole,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4358,Consett Genesis,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+4561,Newcastle Barrack Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+4802,Cramlington EXP,Store,Express,No,No,1,,,No,No,England,Yes,7
+5021,Parliamnt Rd Mbro Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5071,Norton Stktn Tees Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5108,Redcar,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5109,Ingelby Barwick Middlesboro,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+5185,Coulby Newham,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+5187,Roman Road Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5201,Catcote Road Hartlepool Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5254,Acklam Road Middlesborough Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5274,Dixons Bank Middlesborough Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5276,Gosforth Newcastle Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5340,Silksworth Sunderland Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5373,Normanby Middlesboro Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5395,Quayside Newcastle Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5412,Bypass Billingham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5457,Annfield Plain,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5496,Middlesboro Martin Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5596,Durham Rd North,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5658,Amble,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5805,Darlington Market,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5819,Claremont Whitley Bay,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5847,Middlesbrough Coronation,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5866,Middlesborough Corporation,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5936,Consett Durham Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5967,Newcastle Chillingham Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5970,Durham Langley Moor,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+6058,Middlesbrough,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6086,Battle Wallsend,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6128,Newcastle Eldon Sq,Store,Metro,No,No,1,,,No,No,England,Yes,7
+6168,Newcastle U Tyne,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6334,Sacriston ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6407,South Shield Prince Edward,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6502,Seaham Stockton Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6513,Eston Cleveland,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+6520,Westoe Crown Village,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6524,Gateshead Carr Hill Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6536,Middlesbrough Longlands,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6597,Newcastle Chapel Park,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6606,Wickham ,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6653,Sunderland Retail Park,Store,Extra,No,Yes,1,,,No,Yes,England,Yes,7
+6715,Gateshead Coatsworth Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6761,Shiremoor Cobalt Business Park,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6781,Corby Oakley Rd (SCOTLAND),Store,Extra,No,Yes,1,Solo,,No,Yes,England,Yes,7
+6864,Newcastle Stoddart St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2004,Addiscombe Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2031,Ashford Crooksft Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2039,Ashford Park Farm,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2094,Bexhill,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2140,Bstairs Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2143,Brixton,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2177,Battle Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2191,Banstead Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2200,Broadstairs Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2203,Bromley Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2208,Bexhill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2211,Balham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2253,Catford,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2270,Caterham,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2342,Colliers Wood Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2345,Bell Grn Catford Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2348,Croydon Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2395,Canterbury Metro,Store,Metro,No,No,1,,,No,No,England,Yes,7
+2422,Dover Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2438,Eastbourne 1 Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2445,Elmers End,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2449,East Molesey Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2450,Eastbourne Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2485,Ewell Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2526,Faversham,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2531,Fernside Stleonrd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2535,Folkestone,Store,Superstore,Yes,Yes,1,,,No,Yes,England,Yes,7
+2541,Forest Row Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2556,Forest Hill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2560,Gatwick Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+2572,Gillingham Kent,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+2577,Gravesend Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2596,Grove Park Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2680,Hawkinge Folkston Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2723,Croxted Rd Dulwch Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2803,Larkfield Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+2821,Lewisham,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2857,Lunsford Park Extra,Store,Extra,Yes,No,1,,,No,Yes,England,Yes,7
+2860,Maidstone Grove Green,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2902,Tonbridge Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+2903,Maidstone,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+2906,Margate Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+2965,North Cheam Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3003,Pevensey Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3007,Pembury,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3038,Polegate Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3066,Purley Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3068,High St Penge Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3070,Mace Lane Ashford Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3077,New Prk Thntn Hth Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3078,Rainham Kent Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3112,Ramsgate Manston,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3116,Station Rd Hthfld Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3137,Sevenoaks Riverhead,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3148,St Pauls Cray Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3179,Sheerness,Store,Superstore,Yes,No,1,,,No,No,England,Yes,7
+3180,Sidcup,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3189,Southwark,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3205,Surrey Quays,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3232,Strood,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+3235,Sutton Cheam Park,Store,Extra,No,No,1,,,No,No,England,Yes,7
+3246,Southborough Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3257,Seaside Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3283,Tenterden,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3292,Norbury Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3304,Tunbridge Wells Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3330,Uckfield,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+3355,Eastbourne Grove Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3386,West Wickham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+3389,Wimbledon Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+3399,Hurst Park,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3400,West Malling Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+3401,Whitstable Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+3402,Wimbledon Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+3446,West Croydon Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+4342,Streatham Extra,Store,Extra,No,No,1,,,No,Yes,England,Yes,7
+4356,Chertsey Heritage House,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4376,Mitcham Streatham Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4387,Meopham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4392,Canterbury New Dover Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4490,Hersham Molesey Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4498,Hailsham South Rd,Store,Express,No,No,1,,,No,No,England,Yes,7
+4502,Epsom Ruxley Lane,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4616,Haywards Heath Walnut Park,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4619,Hastings Little Ridge Ave,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4647,Whyteleafe Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4791,Chessington Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4808,Boughton Aluph EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4817,Eltham Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4836,Tooting Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4857,Kennington Temp,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+4875,Sanderstead Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4894,Lingfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+4935,Snodland (Free Fruit),Staff restaurant,Staff restaurant,No,No,1,,,No,No,England,No,1000
+5001,London Rd Mdstone Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5003,Sittingbourne Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5061,Shirley Croydon Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5069,Tankerton Rd Whit Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5102,Paddock Wood Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5122,Clapham,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+5145,Sturdee Ave Gillm Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5214,Wimbledon Hill Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5226,Bouverie Rd Folks Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5233,Brown Ln Uckfield Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5234,Annerley Rd C Pal Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5238,Frindsbury Strood Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5311,Croydon Rd Penge Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5337,Hailsham,Store,Superstore,No,Yes,1,,,No,No,England,Yes,7
+5346,Bearstead Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5356,Dymchurch Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5374,Brighton Rd Suttn Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5420,Upper Tooting Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+5424,Whitegates Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5444,Downham Bromly Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5470,West Norwood Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5510,South Norwood Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5511,Wallington Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5514,Croydon Leon Hse Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5530,Valley Drive Gravesend,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5537,Oakwood Park Mdst Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5560,Tooting Broadway Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5601,Hastings Extra,Store,Extra,Yes,No,1,,,No,No,England,Yes,7
+5608,Eltham Hi St Lon Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5645,New Malden High St.,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5649,Norbiton,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5651,Bromley,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+5686,Croydon London Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5687,Redhill Surrey Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5708,Eastbourne Meads,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5710,Bexhill Cooden Rd Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5729,Sydenham Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5735,Herne Bay Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5857,Crowborough,Store,Metro,No,Yes,1,,,No,Yes,England,Yes,7
+5863,Hastings Lacuna Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+5882,Freshwater Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5904,Orpington,Store,Extra,No,No,1,,,No,No,England,Yes,7
+5942,Victory Pier Gillingham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+5998,Aylesford Dot.Com,Store,Dotcom,Yes,No,1,,,No,No,England,Yes,7
+5999,Croydon Dot.Com,Store,Dotcom,No,No,1,,,No,No,England,Yes,7
+6071,Wimbledon Chase Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6093,Folkstone Ford Rd Exp,Store,Express,No,No,1,,,No,No,England,Yes,7
+6094,Gravesend Perry St Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6104,Edenbridge,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6133,Battersea Metro,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+6147,Biggin Hill Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6166,Coulsdon Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6196,Welling,Store,Superstore,No,Yes,1,,,No,Yes,England,Yes,7
+6220,HERESON RD RAMSGT EXP,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6224,Beckenham,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6239,Streatham Crown,Store,Express,No,No,1,,,No,No,England,Yes,7
+6260,Margate Canterbury Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6290,Week St Maidstone,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6335,White Hill Lane Gravesend,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6372,Eastbourne Seaside Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6386,Eastbourne Hampden Pk Superstore,Store,Superstore,No,No,1,,,No,No,England,Yes,7
+6424,Croydon George Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6495,Catford Rushey Green Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6496,London Penge High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6500,Eltham Coronet,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6511,Maidstone Loose Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6523,Deal Mill Hill,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6531,Hawkhurst Superstore,Store,Superstore,No,No,1,,,No,Yes,England,Yes,7
+6575,London. Norwood Hill,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6630,Chatham Lords Wood,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6637,Croydon Southend Rd Exp,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6650,Ramsgate High Street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6664,Sutton Angel Hill,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6675,Bexley Blackfen Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6690,Worcester Park Express,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6698,Sutton Lower Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6706,Herne Bay,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6725,Wimbledon Morden Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6763,Tooting London Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6765,"Croydon, Saffron Square",Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6774,Ashford High St,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6784,Strood Darnley Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6785,Woolwich,Store,Extra,No,No,1,,,No,No,England,Yes,7
+6790,Summerstown Garratt Express,Store,Express,No,No,1,,,No,No,England,Yes,7
+6802,Gravesend Riverview,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6827,Hastings Old London Rd,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6835,Sittingbourne Canterbury Road,Store,Express,No,No,1,,,No,No,England,Yes,7
+6843,Sydenham Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6885,Tunbridge Wells St Johns,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6981,Bromley high street,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+6999,Dorking Reigate Road,Store,Express,No,No,1,,,No,Yes,England,Yes,7
+57817,BKR 666BRP Thamesmead DC,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57844,BKRCC 138 Eastbourne,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57880,BKRCC 221 Crayford,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57881,BKRCC 222 Broadstairs,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57890,BKRCC 258 Tunbridge Wells,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57906,BKRCC 295 Folkestone,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57912,BKRCC 307 Brighton,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57917,BKRCC 313 Sidcup,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57952,BKRCC 375 Medway,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57986,BKRCC 532 Byfleet,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57989,BKRCC 536 Croydon,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57991,BKRCC 550 Canterbury,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57992,BKRCC 556 Hastings,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+57994,BKRCC 560 Redhill,Store,Booker,No,No,1,,,No,Yes,England,Yes,7
+38507,Snodland RSU,Supplier Collection,Fresh RDC,No,No,1,,,No,No,England,No,1000
+999,Kent Fareshare,Fare Share,Fare Share,No,No,1,,,No,No,England,No,1000
+6029,Durham Mkt Place,Store,Metro,No,No,1,,,No,Yes,England,Yes,7
+2058,Barking Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2065,Bar Hill Cambs Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2072,Barking,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2073,Basildon Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2078,Barkingside,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2082,Basildon 2,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2092,Bethnal Green ,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2097,Bishopsgate Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2101,Bishops Stortford,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2134,Braintree Town Centre,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+2152,Bromley By Bow,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+2161,Stockwell Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2166,Bury St Edmunds,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2169,Brandon,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2172,Braintree Grt Notley,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2174,Braintree Marks Farm,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2176,Brentwood Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2179,Gallions Reach Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2190,Burnham On Crouch Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2218,Caister,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2239,Canary Wharf Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2249,London Katharine Dock,Store,Express,No,No,1,,,No,,England,Yes,7
+2265,Cheapside Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2271,Cheshunt ,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2297,Collier Row ,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2299,Covent Garden Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2310,Colchester 2,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2326,Colchester Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2327,Chelmsford 1,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+2329,Cheshunt Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2330,Chelmsford 2,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2357,Chafford Hundred Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2373,Dartford Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2377,Dean Street Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2391,Danbury Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2393,Downham Market,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2394,Lakeside Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2436,Dereham,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2469,Epping,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2470,Ely,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2502,Belton Yarmouth Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2506,Armada Chafford Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2527,Felixstowe Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2554,Forest Gate Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2568,Goodge Street Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2569,Goodmayes Extra,Store,Extra,No,No,1,,,No,,England,Yes,7
+2574,Great Dunmow,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2600,Grays Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2603,Gants Hill Ilford Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2618,Harlow Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2619,Hackney ,Store,Metro,No,Yes,1,,,No,,England,Yes,7
+2621,Great Bentley Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2634,Harlow Church Langley,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2639,Harlow Edinburgh Way,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2665,Grove Rd Norwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2671,Hackney Morning Lane,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2684,Great Baddow Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2685,Hornchurch,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2697,Hunstanton,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+2709,Hoddesdon Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2720,Russell Square Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2722,Euston Road Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2726,Baker Street Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2730,Ilford Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2745,87 Gloucester Rd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2747,Islington Metro,Store,Metro,No,Yes,1,,,No,,England,Yes,7
+2748,Ipswich Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2751,Ipswich Kesgrave,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2757,50 Curzon Street Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2775,124 Tottenham Crt Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2777,Gaywood Kings Lynn,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+2789,Kingscross Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2805,Leyton Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2806,Leytonstone,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2807,Leigh On Sea Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2826,Loampit Vale Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2832,Leyton,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2848,Lowestoft 2,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2877,Martlesham,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2882,Maldon,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2889,Milton,Store,Superstore,No,No,1,,,No,,England,Yes,7
+2948,Norwich Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+2955,Norwich,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+2962,Norwich Harford Bridg,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+2986,Lawson Pl Bury St Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+2988,Ongar Express,Store,Express,No,No,1,,,No,,England,Yes,7
+2998,Oulton Broad Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3060,Pitsea Extra,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+3069,Norwich Magdaln Rd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3082,Shenfield Brentwd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3086,Rainham Essex Extra,Store,Extra,No,No,1,,,No,,England,Yes,7
+3093,Regent Street Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+3105,Romford Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3107,Romford Extra,Store,Extra,No,No,1,,,No,,England,Yes,7
+3120,Rford Gallows Cnr Ext,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+3130,Saffron Walden,Store,Superstore,No,No,1,,,No,,England,Yes,7
+3131,St Johns Colchester Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3156,Chadwell St Mary Expr,Store,Express,No,No,1,,,No,,England,Yes,7
+3177,Southend,Store,Extra,No,No,1,,,No,,England,Yes,7
+3215,South Ockendon Expres,Store,Express,No,No,1,,,No,,England,Yes,7
+3222,Stroud Green ,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+3234,Sudbury,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+3236,Southchurch Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3240,Stowmarket,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+3245,Stalham,Store,Superstore,No,No,1,,,No,,England,Yes,7
+3252,Thorpe Bay Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3256,Longlands Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3264,Silva Isl Wickfrd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3273,Norwich Acres Way Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3291,Tiptree,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+3301,Thetford,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+3305,Taverham Norwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3317,Tulsehill Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3320,Theydon Bois Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3322,S Wotton Kgs Lyn Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3329,Upminster Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3331,Stanford Le Hope Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3332,Upton Park Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+3349,Romford Marlborough Arms,Store,Express,No,No,1,,,No,,England,Yes,7
+3352,Wroxhm Rd Norwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3356,Waltham Abbey,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+3359,Walthamstow Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3361,Waltham Cross Express,Store,Express,No,No,1,,,No,,England,Yes,7
+3366,Westcliffe On Sea Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3373,Watton,Store,Superstore,No,No,1,,,No,,England,Yes,7
+3417,Witham,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+3422,Woodford Green,Store,Superstore,No,No,1,,,No,,England,Yes,7
+3448,Wickford S/End Rd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3474,125 The Strand Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3482,Trafalgar Square Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3483,Westminster Brdge Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+3490,Great Yarmouth,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+4337,Braintree Coggeshall Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+4351,Aldeburgh Saxmundham Rd EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4359,London Bermondsey,Store,Metro,No,Yes,1,,,No,,England,Yes,7
+4371,Ipswich Norwich Rd EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4381,Ipswich Foxhall Rd EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4389,London Aldgate ,Store,Express,No,No,1,,,No,,England,Yes,7
+4394,Swaffham,Store,Superstore,No,No,1,,,No,,England,Yes,7
+4396,Colchester Magdalen St,Store,Express,No,No,1,,,No,,England,Yes,7
+4400,Bow Gladstone Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+4436,Kilburn 405 High Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+4474,Southwark The Cut,Store,Express,No,No,1,,,No,,England,Yes,7
+4483,Newmarket,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+4521,Waterloo Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+4634,London Bridge High St,Store,Express,No,No,1,,,No,,England,Yes,7
+4815,Takeley EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4822,Hollingsworth Road EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4827,Springfield EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4828,Harwich EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4830,Grange Road Parade EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4832,Elsenham EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4835,Denmark Hill EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4849,Charlton Bakery Hub,Commercial,Commercial,No,No,1,,,No,,England,No,1000
+4851,High Holborn EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+4901,Victoria Express,Store,Express,No,No,1,,,No,,England,Yes,7
+4911,Cutty Sark Express,Store,Express,No,No,1,,,No,,England,Yes,7
+4916,Blackfriars Circus Express,Store,Express,No,No,1,,,No,,England,Yes,7
+4923,NORWICH CRNGLEFRD EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+5004,Norwich Rd Thetfd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5013,Thorpe Le Soken Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5084,Eastwood Rayleigh  Rd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5086,Horringer Bury St Edmunds Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5116,Hammond St Express,Store,Express,No,No,1,,,No,,England,Yes,7
+5120,Fakenham,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+5123,Beccles,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+5125,Clacton,Store,Superstore,Yes,No,1,,,No,,England,Yes,7
+5130,Monument Metro,Store,Metro,No,No,1,,,No,,England,Yes,7
+5140,Bromley Rd Colch Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5152,London Smithfield,Store,Express,No,No,1,,,No,,England,Yes,7
+5157,Old Broad Street Express,Store,Express,No,No,1,,,No,,England,Yes,7
+5158,Holborn Viaduct Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5177,Monk St Victoria Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5178,Royals Southend Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5196,Broomfield Rd Chelmsford Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5199,The Reach Thamesmead Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5210,Diss,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+5215,East Dulwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5222,Clerkenwell Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5241,London Road Westcliffe Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5260,Wootton Road Kings Lynn Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5275,Earlham Road Norwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5282,116 Commercial St London Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5284,Plumstead Road Norwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5295,Aylsham,Store,Superstore,No,No,1,,,No,,England,Yes,7
+5327,Highams Park,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+5343,Crouch St Colchester Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5372,Theobalds Park Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5376,Hetherset Melton Road Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5377,London Rd Sth Benfleet Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5380,Aldersgate London Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5383,Salisbury Rd Haringay Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5404,Haggerston Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5408,Interchange Chelmsford Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5418,45 Whitechapel Rd Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5430,Mill Harbour Iod Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5432,Trafalgar Greenwich Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5453,Highbury,Store,Metro,No,No,1,,,No,,England,Yes,7
+5460,Clifton Lee London,Store,Express,No,No,1,,,No,,England,Yes,7
+5465,West Mersea,Store,Express,No,No,1,,,No,,England,Yes,7
+5469,Stoke Newington High Street,Store,Express,No,No,1,,,No,,England,Yes,7
+5481,"Tower Mews, Walthamstow",Store,Express,No,No,1,,,No,,England,Yes,7
+5486,Stoke Newington Green Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+5487,Seven Sisters Road,Store,Express,No,No,1,,,No,,England,Yes,7
+5501,Southgate Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+5508,Shoreditch High St,Store,Express,No,No,1,,,No,,England,Yes,7
+5509,Hither Green Exp,Store,Express,No,No,1,,,No,,England,Yes,7
+5513,Lewisham Way,Store,Express,No,No,1,,,No,,England,Yes,7
+5518,Tabard Sq London,Store,Express,No,No,1,,,No,,England,Yes,7
+5531,Potters Bar,Store,Express,No,No,1,,,No,,England,Yes,7
+5539,Essex Rd Islington,Store,Express,No,No,1,,,No,,England,Yes,7
+5581,Lower Holoway London,Store,Express,No,No,1,,,No,,England,Yes,7
+5599,226 Commercial Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+5600,Tilbury,Store,Express,No,No,1,,,No,,England,Yes,7
+5603,Ipswich Duke Street EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+5611,Dagenham Heathway,Store,Express,No,No,1,,,No,,England,Yes,7
+5644,Romford Manor Park,Store,Express,No,No,1,,,No,,England,Yes,7
+5685,Bradwell Beccles,Store,Express,No,No,1,,,No,,England,Yes,7
+5688,Peckham Southampton Way,Store,Express,No,No,1,,,No,,England,Yes,7
+5692,Stansted ,Store,Express,No,No,1,,,No,,England,Yes,7
+5714,Pimlico,Store,Express,No,No,1,,,No,,England,Yes,7
+5727,Woodford Green,Store,Express,No,No,1,,,No,,England,Yes,7
+5736,Limehouse Commercial Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+5777,Unthank Rd Norwich,Store,Express,No,No,1,,,No,,England,Yes,7
+5784,224 Walworth Road,Store,Express,No,No,1,,,No,,England,Yes,7
+5841,Poplar High St London,Store,Express,No,No,1,,,No,,England,Yes,7
+5842,Derwent South Ockenden,Store,Express,No,No,1,,,No,,England,Yes,7
+5870,Temple Belle Dartford,Store,Express,No,No,1,,,No,,England,Yes,7
+5878,231 The Strand ,Store,Express,No,No,1,,,No,,England,Yes,7
+5906,Norwich Westlegate,Store,Express,No,No,1,,,No,,England,Yes,7
+5907,East Ham 189 High St,Store,Express,No,No,1,,,No,,England,Yes,7
+5909,Ipswich St Matthews EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+5911,Pilgrims Way East Ham,Store,Express,No,No,1,,,No,,England,Yes,7
+5912,City Road London,Store,Express,No,No,1,,,No,,England,Yes,7
+5915,Heacham,Store,Express,No,No,1,,,No,,England,Yes,7
+5923,Wanstead,Store,Express,No,No,1,,,No,,England,Yes,7
+5926,Farringdon Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+5928,Peckham Rye,Store,Express,No,No,1,,,No,,England,Yes,7
+5932,Barking Ripple Road,Store,Express,No,No,1,,,No,,England,Yes,7
+5933,Forrest Gate,Store,Express,No,No,1,,,No,,England,Yes,7
+5939,Haverhill,Store,Superstore,Yes,Yes,1,,,No,,England,Yes,7
+5945,Walthamstow Forest,Store,Express,No,No,1,,,No,,England,Yes,7
+5946,452 Hackney Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+5949,Mryland Leytonstone,Store,Express,No,No,1,,,No,,England,Yes,7
+5953,Pentonville Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+5956,Mansell St London,Store,Express,No,No,1,,,No,,England,Yes,7
+5958,South St Bishops Stort,Store,Express,No,No,1,,,No,,England,Yes,7
+5983,Ilford Cranbrook Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+5989,Bow Violet Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+6005,Frances Wharf London,Store,Express,No,No,1,,,No,,England,Yes,7
+6018,Leigh On Sea,Store,Express,No,No,1,,,No,,England,Yes,7
+6026,Kursaal Southend,Store,Express,No,No,1,,,No,,England,Yes,7
+6031,Broadway Leigh On Sea,Store,Express,No,No,1,,,No,,England,Yes,7
+6033,Chadwell Heath,Store,Express,No,No,1,,,No,,England,Yes,7
+6038,Elm Park Romford,Store,Express,No,No,1,,,No,,England,Yes,7
+6039,Fulham Munster Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6041,Norwich Aylesham Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6042,Cheapside,Store,Express,No,No,1,,,No,,England,Yes,7
+6044,Queens Rd Peckham,Store,Express,No,No,1,,,No,,England,Yes,7
+6057,Greenwich Creek Rd ,Store,Express,No,No,1,,,No,,England,Yes,7
+6063,Baltimore Iod,Store,Express,No,No,1,,,No,,England,Yes,7
+6069,Lambeth Kennington Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6075,London Upton Park,Store,Express,No,No,1,,,No,,England,Yes,7
+6077,London Blackfriars,Store,Express,No,No,1,,,No,,England,Yes,7
+6079,Erith,Store,Express,No,No,1,,,No,,England,Yes,7
+6101,Plumstead Lakeland,Store,Express,No,No,1,,,No,,England,Yes,7
+6105,Norwich Wales Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6126,Ipswich Nacton Rd EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+6150,Shoreditch London,Store,Express,No,No,1,,,No,,England,Yes,7
+6162,Leyton High Road,Store,Express,No,No,1,,,No,,England,Yes,7
+6172,Tower Bridge London,Store,Express,No,No,1,,,No,,England,Yes,7
+6179,Bury St Edmunds Cornhill EXP,Store,Express,No,No,1,,,No,,England,Yes,7
+6200,Norwich Dereham Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6206,Clacton On Sea,Store,Express,No,No,1,,,No,,England,Yes,7
+6212,Stratford London,Store,Express,No,No,1,,,No,,England,Yes,7
+6217,Southend Rd Grays,Store,Express,No,No,1,,,No,,England,Yes,7
+6230,Hackney Dalston Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+6231,Kennington Pk Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6234,Chingford,Store,Express,No,No,1,,,No,,England,Yes,7
+6235,Hornchurch Butts Rd ,Store,Express,No,No,1,,,No,,England,Yes,7
+6244,London Lea Bridge,Store,Express,No,No,1,,,No,,England,Yes,7
+6248,Old St Hackney,Store,Express,No,No,1,,,No,,England,Yes,7
+6278,Lower Clapton Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6289,South Plaza Iod,Store,Express,No,No,1,,,No,,England,Yes,7
+6291,Camberwell London,Store,Express,No,No,1,,,No,,England,Yes,7
+6318,Norwich Cromer Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6319,Borough Rd London,Store,Express,No,No,1,,,No,,England,Yes,7
+6339,Mount Rd Chingford ,Store,Express,No,No,1,,,No,,England,Yes,7
+6346,London St Botolphs,Store,Express,No,No,1,,,No,,England,Yes,7
+6349,London Dalston Junc,Store,Express,No,No,1,,,No,,England,Yes,7
+6363,London Bethnal Green,Store,Express,No,No,1,,,No,,England,Yes,7
+6364,Ilford Ley St ,Store,Express,No,No,1,,,No,,England,Yes,7
+6365,High Rd Leytonstone,Store,Express,No,No,1,,,No,,England,Yes,7
+6371,London Rd Woolwich,Store,Express,No,No,1,,,No,,England,Yes,7
+6390,London Gt Suffolk St,Store,Express,No,No,1,,,No,,England,Yes,7
+6408,Goodmayes Rowallen,Store,Express,No,No,1,,,No,,England,Yes,7
+6413,Greenwich O2 Peninsular,Store,Express,No,No,1,,,No,,England,Yes,7
+6422,East Ham Katherine Rd ,Store,Express,No,No,1,,,No,,England,Yes,7
+6431,Walthamstow St James St,Store,Express,No,No,1,,,No,,England,Yes,7
+6434,Welling Bellgrove,Store,Express,No,No,1,,,No,,England,Yes,7
+6440,Enfield Dot Com,Store,Dotcom Centre,Yes,No,1,,,No,,England,Yes,7
+6483,Rainham Essex,Store,Express,No,No,1,,,No,,England,Yes,7
+6499,Romford Fairview,Store,Express,No,No,1,,,No,,England,Yes,7
+6545,London 24 Chiswell St,Store,Express,No,No,1,,,No,,England,Yes,7
+6554,London Royal Victoria Dock,Store,Express,No,No,1,,,No,,England,Yes,7
+6555,Billericay Meadow Rise,Store,Express,No,No,1,,,No,,England,Yes,7
+6560,London Camberwell,Store,Express,No,No,1,,,No,,England,Yes,7
+6567,Brixton Coldharbour Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+6568,Borough 157 New Kent Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6585,76 South St Romford,Store,Express,No,No,1,,,No,,England,Yes,7
+6593,Isle of Dogs Marsh Wall,Store,Express,No,No,1,,,No,,England,Yes,7
+6600,Romford Brentwood,Store,Express,No,No,1,,,No,,England,Yes,7
+6601,Whitechapel Fieldgate Street,Store,Metro,No,Yes,1,,,No,,England,Yes,7
+6608,Saxmundham,Store,Superstore,No,No,1,,,No,,England,Yes,7
+6611,Kenilworth Ave Walthamstow,Store,Express,No,No,1,,,No,,England,Yes,7
+6626,Hoddesden Burford St,Store,Express,No,No,1,,,No,,England,Yes,7
+6629,Chelmsford 53 Moulsham St,Store,Express,No,No,1,,,No,,England,Yes,7
+6634,Norwich Drayton,Store,Superstore,No,Yes,1,,,No,,England,Yes,7
+6639,Stratford 150 High St,Store,Express,No,No,1,,,No,,England,Yes,7
+6640,Dagenham Shafter Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6663,Hackney 87 Upper Clacton Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6665,Green Gate Barking Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6666,Dartford East Hill,Store,Express,No,No,1,,,No,,England,Yes,7
+6699,Northumberland Heath Bex,Store,Express,No,No,1,,,No,,England,Yes,7
+6724,Waterhouse Lane Express,Store,Express,No,No,1,,,No,,England,Yes,7
+6740,Surrey Quays Marine Wharf,Store,Express,No,No,1,,,No,,England,Yes,7
+6773,Mundesley Cromer Rd ,Store,Express,No,No,1,,,No,,England,Yes,7
+6776,Dagenham Oxlow Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+6779,Welling Upper Wickham Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+6787,Clerkenwell Central St,Store,Express,No,No,1,,,No,,England,Yes,7
+6791,London Brixton Hill,Store,Express,No,No,1,,,No,,England,Yes,7
+6793,Brentwood Warley Hill,Store,Express,No,No,1,,,No,,England,Yes,7
+6811,Bishops Stortford Havers Lane,Store,Express,No,No,1,,,No,,England,Yes,7
+6812,Saffron Walden Pleasant,Store,Express,No,No,1,,,No,,England,Yes,7
+6814,Kings Lynn Harwick,Store,Extra,Yes,No,1,,,No,,England,Yes,7
+6816,Sheringham,Store,Superstore,No,No,1,,,No,,England,Yes,7
+6845,Tottenham 308 West Green Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6851,London Herne Hill,Store,Express,No,No,1,,,No,,England,Yes,7
+6860,Waterloo Bayliss Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6898,IOD Manchester Rd,Store,Express,No,No,1,,,No,,England,Yes,7
+6976,Nightingale Excel Temp Store,Store,Temp Store,No,No,1,,,No,,England,Yes,7
+6977,Walthamstow Wood St,Store,Express,No,No,1,,,No,,England,Yes,7
+6982,Cheshunt Flamstead End,Store,Express,No,No,1,,,No,,England,Yes,7
+6997,Erith,Store,Dotcom Centre,Yes,No,1,,,No,,England,Yes,7
+57842,BKRCC 136 Chelmsford,Booker,Booker,No,No,1,,,No,,England,No,1000
+57846,BKRCC 144 Great Yarmouth,Booker,Booker,No,No,1,,,No,,England,No,1000
+57903,BKRCC 283 Clacton,Booker,Booker,No,No,1,,,No,,England,No,1000
+57911,BKRCC 306 Dagenham,Booker,Booker,No,No,1,,,No,,England,No,1000
+57914,BKRCC 309 North Weald,Booker,Booker,No,No,1,,,No,,England,No,1000
+57920,BKRCC 317 Norwich,Booker,Booker,No,No,1,,,No,,England,No,1000
+57921,BKRCC 318 Lowestoft,Booker,Booker,No,No,1,,,No,,England,No,1000
+57925,BKRCC 325 Southend,Booker,Booker,No,No,1,,,No,,England,No,1000
+57941,BKRCC 353 Wimbledon,Booker,Booker,No,No,1,,,No,,England,No,1000
+57953,BKRCC 376 Colchester,Booker,Booker,No,No,1,,,No,,England,No,1000
+57955,BKRCC 378 Ipswich,Booker,Booker,No,No,1,,,No,,England,No,1000
+57960,BKRCC 418 Holt,Booker,Booker,No,No,1,,,No,,England,No,1000
+57972,BKRCC 470 Acton,Booker,Booker,No,No,1,,,No,,England,No,1000
+57984,BKRCC 524 Kings Lynn,Booker,Booker,No,No,1,,,No,,England,No,1000
+57993,BKRCC 558 Nine Elms,Booker,Booker,No,No,1,,,No,,England,No,1000
+57995,BKRCC 561 St Pancras,Booker,Booker,No,No,1,,,No,,England,No,1000
+57996,BKRCC 562 Beckton,Booker,Booker,No,No,1,,,No,,England,No,1000
+58001,MAKRO 574 Charlton,Booker,Booker,No,No,1,,,No,,England,No,1000
+58013,MAKRO 589 Croydon,Booker,Booker,No,No,1,,,No,,England,No,1000
+58018,MAKRO 594 Rayleigh,Booker,Booker,No,No,1,,,No,,England,No,1000
+58020,MAKRO 596 Norwich,Booker,Booker,No,No,1,,,No,,England,No,1000
+58022,MAKRO 598 Ipswich,Booker,Booker,No,No,1,,,No,,England,No,1000
+380,Middlesbrough DC,Trunk RDC,Depot,No,No,1,,,No,,England,No,1000
+996,Ipswich Fareshare,Fare Share,Fare Share,No,No,1,,,No,,England,No,1000
+3786,NORWICH HARFORD PFS,PFS,PFS,No,No,1,,,No,,England,No,1000
+1431100,SALTLEY WHARF,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+2232300,TILDA RICE,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+5297700,Carrs Flour Mills Ltd,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+5644199,Proctor & Gamble,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+5797002,CEVA MENDLESHAM,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+6092300,FLYING TRADE,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+6109400,LENHAM STORAGE,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+12022020,Allinsons,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+13032020,Princes Wisbech,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+17052019,SILVERSPOON ,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
+23042020,Humdinger,Supplier Collection,Supplier Collection,No,No,1,,,No,,England,No,1000
