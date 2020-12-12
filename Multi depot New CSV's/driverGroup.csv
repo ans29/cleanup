@@ -1,126 +1,126 @@
-Driver Group,Days,Company,Driver Class,Driver Trailer Compatibility,Start Depot Id,Integrated Fleet Driver,Min Time till Break,Max Duty Time Till Break,Max Driving Time Till Break,Break Length,Agency Min Duty Time,Agency Min Duty Time Cost,Incremental Time Interval,Incremental Time Interval Cost,Driver Vehicle Check Time,Driver Debrief Time,Multi Trip Vehicle Check Time,Driver Vehicle Refuel Time,Duty Time Softness,Min Time Before Work,Driver Retrieval Time,CanFlex,Max No of Trips
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Agency 08T12,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 12T14,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 14T16,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 16T18,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 18T20,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 20T2359,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 00T05,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 0530T0730,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Haulier,1,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Haulier,2,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco Tailend,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,00:01,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco TailendShort,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,04:30,04:30,00:45,00:01,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco Fixedfroz,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0600T0800,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1100T1300,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1200T1400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1230T1430,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1430T1630,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1500T1700,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1600T1800,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1630T1830,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1700T1900,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1800T2000,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1900T2100,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1930T2130,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2000T2200,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2100T2300,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2130T2330,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2145T2345,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0000T0200,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0100T0300,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0200T0400,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0300T0500,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0330T0530,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0400T0600,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0430T0630,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0500T0530,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0600T0800,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Agency 08T20,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 20T2359,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 00T05,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 0530T0730,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Tesco Tailend,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco Fixedfroz,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1000T1100,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1100T1200,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1200T1400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1300T1400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1400T1500,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1500T1600,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1600T1700,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1700T1800,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1800T1900,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1900T2000,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2000T2100,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2100T2200,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2200T2300,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2300T2400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0000T0100,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0100T0200,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0200T0300,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0300T0400,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0400T0500,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0500T0600,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0600T0700,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0700T0800,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,Hard,04:30,00:00,No,3
-Agency 08T20,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 20T2359,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 00T05,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 0530T0730,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Tesco Tailend,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1000T1100,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1100T1200,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1200T1400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1300T1400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1400T1500,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1500T1600,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1600T1700,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1700T1800,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1800T1900,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 1900T2000,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2000T2100,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2100T2200,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2200T2300,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 2300T2400,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0000T0100,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0100T0200,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0200T0300,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0300T0400,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0400T0500,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0500T0600,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0600T0700,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco 0700T0800,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco Fixedfroz,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Haulier,1,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Haulier,2,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30053,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,38111,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:30,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,38111,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:30,00:15,00:45,00:15,Hard,04:30,00:00,No,1
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,Hard,04:30,00:00,No,1
-Haulier,1,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Haulier,2,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-corby,2,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco Fixedfroz,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco Fixedfroz,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,68807,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,Hard,04:30,00:00,No,1
-Tesco Fixedfroz,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco Fixedfroz,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco Fixedfroz,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,38111,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:30,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco Fixedfroz,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,38111,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:30,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Haulier,1,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Haulier,2,Haulier,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,30052,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,1
-Tesco,1,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Tesco,2,Tesco,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,No,3
-Agency 08T20,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 20T2359,1,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 00T05,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
-Agency 0530T0730,2,Agency,Class 1,tractor4x2;tractor6x2;dd;13m;12m;10m;8m;rigid10m26t;rigid10m18t;rigid8m16t,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,Hard,04:30,00:00,Yes,3
+Driver Group,Days,Owner,Driver Class,Driver Trailer Compatibility Override,Start Depot Id,Integrated Fleet Driver,Min Time till Break,Max Duty Time Till Break,Max Driving Time Till Break,Break Length,Driver Min Duty Time,Driver Min Duty Time Cost,Incremental Time Interval,Incremental Time Interval Cost,Driver Vehicle Check Time,Driver Debrief Time,Multi Trip Vehicle Check Time,Driver Vehicle Refuel Time,Max No of Trips
+Tesco,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Agency 08T12,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 12T14,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 14T16,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 16T18,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 18T20,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 20T2359,1,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 00T05,2,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 0530T0730,2,Agency,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Haulier,1,Haulier,Class 1,,30103,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Haulier,2,Haulier,Class 1,,30103,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Tesco Tailend,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,00:01,0,60,0,00:45,00:15,00:33,00:15,1
+Tesco TailendShort,1,Tesco,Class 1,,30103,No,04:30,04:30,04:30,00:45,00:01,0,60,0,00:45,00:15,00:33,00:15,1
+Tesco Fixedfroz,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 0600T0800,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1100T1300,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1200T1400,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1230T1430,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1430T1630,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1500T1700,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1600T1800,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1630T1830,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1700T1900,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1800T2000,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1900T2100,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 1930T2130,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 2000T2200,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 2100T2300,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 2130T2330,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 2145T2345,1,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 0000T0200,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 0100T0300,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 0200T0400,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco 0300T0500,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0330T0530,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0400T0600,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0430T0630,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0500T0530,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0600T0800,2,Tesco,Class 1,,30103,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Agency 08T20,1,Agency,Class 1,,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 20T2359,1,Agency,Class 1,,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 00T05,2,Agency,Class 1,,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 0530T0730,2,Agency,Class 1,,30053,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Tesco Tailend,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,1
+Tesco Fixedfroz,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1000T1100,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1100T1200,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1200T1400,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1300T1400,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1400T1500,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1500T1600,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1600T1700,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1700T1800,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1800T1900,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1900T2000,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2000T2100,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2100T2200,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2200T2300,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2300T2400,1,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0000T0100,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0100T0200,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0200T0300,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0300T0400,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0400T0500,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0500T0600,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0600T0700,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0700T0800,2,Tesco,Class 1,,30053,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,3
+Agency 08T20,1,Agency,Class 1,,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 20T2359,1,Agency,Class 1,,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 00T05,2,Agency,Class 1,,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Agency 0530T0730,2,Agency,Class 1,,30102,No,04:30,06:00,04:30,00:45,11:15,128,60,16,00:45,00:15,00:33,00:15,3
+Tesco Tailend,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1000T1100,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1100T1200,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1200T1400,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1300T1400,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1400T1500,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1500T1600,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1600T1700,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1700T1800,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1800T1900,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 1900T2000,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2000T2100,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2100T2200,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2200T2300,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 2300T2400,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0000T0100,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0100T0200,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0200T0300,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco 0300T0400,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0400T0500,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0500T0600,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0600T0700,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco 0700T0800,2,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,05:00,0,60,48.5,00:45,00:15,00:33,00:15,3
+Tesco Fixedfroz,1,Tesco,Class 1,,30102,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Haulier,1,Haulier,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Haulier,2,Haulier,Class 1,,30053,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Tesco,1,Tesco,Class 1,,38111,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:30,00:15,00:33,00:15,1
+Tesco,2,Tesco,Class 1,,38111,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:30,00:15,00:45,00:15,1
+Tesco,1,Tesco,Class 1,,68807,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,1
+Tesco,2,Tesco,Class 1,,68807,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,1
+Haulier,1,Haulier,Class 1,,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Haulier,2,Haulier,Class 1,,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+corby,2,Haulier,Class 1,,68807,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Tesco Fixedfroz,1,Tesco,Class 1,,68807,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco Fixedfroz,2,Tesco,Class 1,,68807,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco,1,Tesco,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,1
+Tesco,2,Tesco,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:45,00:15,1
+Tesco Fixedfroz,1,Tesco,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco Fixedfroz,2,Tesco,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:15,0,60,12.9,00:45,00:15,00:33,00:15,3
+Tesco Fixedfroz,1,Tesco,Class 1,,38111,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:30,00:15,00:33,00:15,3
+Tesco Fixedfroz,2,Tesco,Class 1,,38111,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:30,00:15,00:33,00:15,3
+Haulier,1,Haulier,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Haulier,2,Haulier,Class 1,,30052,No,04:30,06:00,04:30,00:45,10:00,200,60,20,00:45,00:15,00:33,00:15,1
+Tesco,1,Tesco,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Tesco,2,Tesco,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,0,60,0,00:45,00:15,00:33,00:15,3
+Agency 08T20,1,Agency,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 20T2359,1,Agency,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 00T05,2,Agency,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
+Agency 0530T0730,2,Agency,Class 1,,37198,No,04:30,06:00,04:30,00:45,08:30,128,60,0,00:45,00:15,00:33,00:15,3
