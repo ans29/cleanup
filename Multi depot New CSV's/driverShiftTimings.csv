@@ -1,4 +1,4 @@
-Depot Id,Driver,Days,Days of the Week,Start Time,End Time,Max Duty Time,Max Drive Time,Number of Drivers Available
+Depot Id,Driver,Days,Days of the Week,Earliest start time,Latest start time,Max Duty Time,Max Drive Time,Number of Drivers Available
 30103,Tesco,1,Monday,00:00,23:59,10:15,09:00,0
 30103,Tesco Tailend,1,Monday,09:00,11:59,06:00,06:00,0
 30103,Tesco TailendShort,1,Monday,09:00,11:59,04:30,04:30,3
